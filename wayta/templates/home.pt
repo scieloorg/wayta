@@ -1,0 +1,71 @@
+<html>
+    <head>
+        <title>wayta - What are you looking for?</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+    </head>
+    <body>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+                <h1>wayta</h1>
+                <h6>what are you talking about?</h6>
+                <form class="form-inline" role="form" method="POST">
+                    <div class="form-group">
+                        <label class="sr-only" for="q">institution</label>
+                        <input type="text" name="q" class="form-control" size="100" id="q" placeholder="Enter an institution name"/>
+                    </div>
+                  <button type="submit" class="btn btn-default">go</button>
+                </form>
+                <div tal:switch="alert">
+                    <div class="alert alert-${alert}" role="alert" tal:case="'success'">You are talking about</div>
+                    <div class="alert alert-${alert}" role="alert" tal:case="'info'">May you are talking about?</div>
+                    <div class="alert alert-${alert}" role="alert" tal:case="'warning'">Multiple matches for your query</div>
+                    <div class="alert alert-${alert}" role="alert" tal:case="'danger'">No match found for your query</div>
+                </div>
+                <div tal:condition="choices">
+                    <ul class="list-group">
+                        <li class="list-group-item" tal:repeat="choice choices">
+                            ${choice.value} <span class="badge">score ${choice.score}</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-1"></div>
+            </div>
+        </div>    
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+                <h4>Pourpouse</h4>
+                The main pourpouse of this API, is to avoid or at least decrease the number of institution names to be included into XML files in a wrong form. It means that this tool will suggest the correct name o a given institution name. It may be used by the SciELO team and anyone involved in the production of XML documents that must be compliant with the SciELO Publishing Schema.
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+        <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+                <h4>How to query?</h4>
+
+                <h5>Endpoint</h5>
+                /api/v1/institution?q=USP
+
+                <h5>Response</h5>
+                <code>
+                    {
+                        "head": {
+                            "match": "by_similarity"
+                        },
+                        "choices": [
+                            {
+                                "score": 8.036916,
+                                "value": "Universidade de São Paulo"
+                            }
+                        ]
+                    }
+                </code>
+            </div>
+            <div class="col-md-1"></div>
+        </div>
+    </body>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<html>

@@ -1,0 +1,3 @@
+elasticsearch
+pyramid
+pyramid_chameleon
