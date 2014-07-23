@@ -36,7 +36,7 @@
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-                <h4>Purpouse</h4>
+                <h4>Purpose</h4>
                 The main pourpouse of this API, is to avoid or at least decrease the number of institution names to be included into XML files in a wrong form. It means that this tool will suggest the correct name o a given institution name. It may be used by the SciELO team and anyone involved in the production of XML documents that must be compliant with the SciELO Publishing Schema.
             </div>
             <div class="col-md-1"></div>
