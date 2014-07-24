@@ -24,7 +24,7 @@ class DataBroker(object):
             response['head']['match'] = False
             return response
 
-        if data['hits']['hits'][0]['_source']['form'] == q:
+        if data['hits']['hits'][0]['_source']['form'].lower() == q.lower():
             response['head']['match'] = 'exact'
             response['choices'].append(
                 {
