@@ -745,13 +745,13 @@ Antillas Holandesas|Netherlands Antilles
 NEW CALEDONIA|New Caledonia
 Nova Caledônia|New Caledonia
 Nueva Caledonia|New Caledonia
-NEW ZEALAND|New Zealand
-NEW ZELAND|New Zealand
-NOVA ZELANDIA|New Zealand
-NUEVA ZELANDA|New Zealand
-NUEVA ZELANDIA|New Zealand
-Nova Zelândia|New Zealand
-Nueva Zelandia|New Zealand
+NEW ZEALAND|New Zeland
+NEW ZELAND|New Zeland
+NOVA ZELANDIA|New Zeland
+NUEVA ZELANDA|New Zeland
+NUEVA ZELANDIA|New Zeland
+Nova Zelândia|New Zeland
+Nueva Zelandia|New Zeland
 Ministerio|Nicaragua
 NICARAGUA|Nicaragua
 NIGARAGUA|Nicaragua
