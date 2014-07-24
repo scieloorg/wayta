@@ -28,7 +28,7 @@ class DataBroker(object):
             response['head']['match'] = 'exact'
             response['choices'].append(
                 {
-                    'value': data['hits']['hits'][0]['_source']['form'],
+                    'value': data['hits']['hits'][0]['_source']['name'],
                     'score': data['hits']['hits'][0]['_score'],
                 }
             )

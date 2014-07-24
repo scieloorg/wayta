@@ -53,8 +53,12 @@ def argp():
 
     if args.index == 'institutions':
         institutions()
-    else:
+        print 'Institutions index reloaded'
+    else args.index == 'countries':
         countries()
+        print 'Countries index reloaded'
+    else:
+        print 'Nothing done! you must select an index'
 
 if __name__ == "__main__":
     argp()
