@@ -25,7 +25,7 @@ def notfound(request):
 @view_config(route_name='home', renderer='templates/home.pt')
 def home(request):
     query = request.POST.get('q', None)
-    country = request.POST.get('country', None)
+    index = request.POST.get('index', None)
 
     data = {
         'query': None,
@@ -34,7 +34,7 @@ def home(request):
     }
 
     if query:
-        result = request.databroker.similar(query, country, 'institutions')
+        result = request.databroker.similar(index, query)
 
         data = {
             'query': query,
@@ -53,6 +53,17 @@ def institution(request):
     country = request.GET.get('country', None)
 
     if query:
-        result = request.databroker.similar(query, country, 'institutions')
+        result = request.databroker.similar('institutions', query)
+
+    return result
+
+@view_config(route_name='country', request_method='GET', renderer='json')
+def country(request):
+
+    query = request.GET.get('q', None)
+    country = None
+
+    if query:
+        result = request.databroker.similar('countries', query)
 
     return result

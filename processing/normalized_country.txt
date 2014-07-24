@@ -1,0 +1,996 @@
+﻿ARGENTINA|Argentina
+BRAZIL|Brazil
+CHILE|Chile
+COLOMBIA|Colombia
+CZECH REPUBLIC|Czech Republic
+FRANCE|France
+GERMANY|Germany
+MEXICO|Mexico
+SPAIN|Spain
+INDIA|India
+ZIMBABWE|Zimbabwe
+NETHERLANDS|Netherlands
+SWITZERLAND|Switzerland
+TAIWAN|Taiwan
+TURKEY|Turkey
+UNITED KINGDOM|United Kingdom
+DENMARK|Denmark
+USA|USA
+POLAND|Poland
+COSTA RICA|Costa Rica
+ZAIRE|Zaire
+VENEZUELA|Venezuela
+GUATEMALA|Guatemala
+GREECE|Greece
+BELGIUM|Belgium
+SLOVAKIA|Slovakia
+PEOPLES R CHINA|Peoples R China
+China|Peoples R China
+PORTUGAL|Portugal
+SOUTH KOREA|South Korea
+U ARAB EMIRATES|U Arab Emirates
+JORDAN|Jordan
+HAITI|Haiti
+IRAN|Iran
+ZAMBIA|Zambia
+CROATIA|Croatia
+EGYPT|Egypt
+ITALY|Italy
+EL SALVADOR|El Salvador
+CANADA|Canada
+ENGLAND|United Kingdom
+JAPAN|Japan
+HONDURAS|Honduras
+SAUDI ARABIA|Saudi Arabia
+MYANMAR|Myanmar
+ARMENIA|Armenia
+ISRAEL|Israel
+CAMEROON|Cameroon
+ECUADOR|Ecuador
+AUSTRIA|Austria
+AUSTRALIA|Australia
+SOUTH AFRICA|South Africa
+CUBA|Cuba
+PERU|Peru
+ANGOLA|Angola
+PANAMA|Panama
+CONGO|Congo
+INDONESIA|Indonesia
+UKRAINE|Ukraine
+KENYA|Kenya
+NEW ZEALAND|New Zealand
+NIGERIA|Nigeria
+THAILAND|Thailand
+LIBYA|Libya
+ETHIOPIA|Ethiopia
+WEST INDIES|West Indies
+NAMIBIA|Namibia
+BOLIVIA|Bolivia
+AFGHANISTAN|Afghanistan
+MALAWI|Malawi
+SUDAN|Sudan
+TANZANIA|Tanzania
+ESTONIA|Estonia
+SCOTLAND|United Kingdom
+ROMANIA|Romania
+HUNGARY|Hungary
+BURKINA FASO|Burkina Faso
+QATAR|Qatar
+GAMBIA|Gambia
+SERBIA|Serbia
+SWEDEN|Sweden
+PAKISTAN|Pakistan
+FINLAND|Finland
+NETHERLNDS|Netherlands
+LITHUANIA|Lithuania
+RUSSIAN|Russia
+DOMINICAN REP|Dominican Rep
+s.p|USA
+SERBIA MONTENEG|Serbia Monteneg
+YUGOSLAVIA|Yugoslavia
+VIETNAM|Vietnam
+ST LUCIA|St Lucia
+ERITREA|Eritrea
+UNITED KIGDOM|United Kingdom
+URUGUAY|Uruguay
+NORWAY|Norway
+Índia|India
+PUERTO RICO|Puerto Rico
+UZBEKISTAN|Uzbekistan
+ES|Brazil
+ALGERIA|Algeria
+MALAYSIA|Malaysia
+KAZAKHSTAN|Kazakhstan
+RUSSIA|Russia
+s.p|Brazil
+PALESTINE|Palestine
+MOROCCO|Morocco
+Brasil|Brazil
+México|Mexico
+JAMAICA|Jamaica
+|USA
+RWANDA|Rwanda
+BOSNIA HERCEG|Bosnia Herceg
+MACEDONIA|Macedonia
+IRELAND|Ireland
+NICARAGUA|Nicaragua
+SA|USA
+TRINID TOBAGO|Trinid Tobago
+WALES|United Kingdom
+NORTH IRELAND|United Kingdom
+TUNISIA|Tunisia
+Vila Real|Portugal
+South|South Africa
+SAMOA|Samoa
+FIJI|Fiji
+PHILIPPINES|Philippines
+(RSA)|South Africa
+U.S.A.|USA
+SURINAM|Surinam
+UK|United Kingdom
+SRI LANKA|Sri Lanka
+BULGARIA|Bulgaria
+German|Germany
+MALI|Mali
+BANGLADESH|Bangladesh
+United States of America|USA
+RI|USA
+Republic of France|France
+EE.UU|Puerto Rico
+GHANA|Ghana
+KOSOVO|Kosovo
+SLOVENIA|Slovenia
+BOTSWANA|Botswana
+CYPRUS|Cyprus
+MEXICO|USA
+UGANDA|Uganda
+MAURITIUS|Mauritius
+MA|USA
+MALTA|Malta
+.S.A.|USA
+TOGO|Togo
+LIBERIA|Liberia
+LATVIA|Latvia
+HONG KONG|Hong Kong
+GUYANA|Guyana
+s.p|Scotland
+Dubai UAE|U Arab Emirates
+IRAQ|Iraq
+SYRIA|Syria
+LEBANON|Lebanon
+BAHRAIN|Bahrain
+YEMEN|Yemen
+BENIN|Benin
+COTE IVOIRE|Cote Ivoire
+MOZAMBIQUE|Mozambique
+UNITED KIGDOM|England
+ALBANIA|Albania
+París|France
+FRENCH GUIANA|French Guiana
+CHAD|Chad
+MADAGASCAR|Madagascar
+s.p|Algeria
+SENEGAL|Senegal
+NIGER|Niger
+Espa–a|Spain
+España|Spain
+GUADELOUPE|Guadeloupe
+Italia|Italy
+TIMOR-LESTE|Timor-Leste
+PARAGUAY|Paraguay
+Juazeiro|Brazil
+e-mail|Brazil
+EUA|Eua
+Austr‡lia|Australia
+CAPE VERDE|Cape Verde
+ES|Spain
+Turquia|Turkey
+África del Sur|South Africa
+Perú|Peru
+Cuzco|Peru
+Arequipa|Peru
+Cánada.|Canada
+Corea del Sur|South Korea
+Colombi|Colombia
+EE.UU.|Puerto Rico
+PUERO RICO|Puerto Rico
+Canadá|Canada
+Bélgica|Belgium
+LESOTHO|Lesotho
+CENT AFR REPUBL|Cent Afr Republ
+NEPAL|Nepal
+DF|Brazil
+P.R. China|Peoples R China
+BARBADOS|Barbados
+, Estados Unidos|USA
+Georgia|Georgia
+SINGAPORE|Singapore
+Estoni|Estonia
+CAMBODIA|Cambodia
+SOLOMON ISLANDS|Solomon Islands
+OMAN|Oman
+Piura|Peru
+Estado Unidos|Estado Unidos
+W IND ASSOC ST|W Ind Assoc St
+Republic of Panama|Panama
+SIERRA LEONE|Sierra Leone
+Islamic Republic Iran|Iran
+Murcia|Spain
+ANDORRA|Andorra
+NEW CALEDONIA|France
+Ver|Mexico
+LAOS|Laos
+San Marino|San Marino
+NETH ANTILLES|Neth Antilles
+BHUTAN|Bhutan
+DOMINICA|Dominica
+BELARUS|Belarus
+Islamabad|Pakistan
+Estados Unidos da América do Norte|USA
+LUXEMBOURG|Luxembourg
+KUWAIT|Kuwait
+BURUNDI|Burundi
+BAHAMAS|Bahamas
+Dominican Republic|Dominican Rep
+República Dominicana|Dominican Rep
+Col™mbia|Colombia
+(Poland|Poland
+Islamic Republic Iran|Iral
+PAPUA N GUINEA|Papua N Guinea
+Estados Unidos de América|USA
+Unite States|USA
+South-Africa|South Africa
+MONGOL PEO REP|Mongol Peo Rep
+Republic of China|Peoples R China
+ROC|Taiwan
+UKs.af|United Kingdom
+GUINEA BISSAU|Guinea Bissau
+Panamá|Panama
+SOMALIA|Somalia
+SOUTH SUDAN|South Sudan
+KYRGYZSTAN|Kyrgyzstan
+MOLDOVA|Moldova
+BELIZE|Belize
+Lao Peoples Democratic Republic.|Laos
+MARSHALL ISLAND|Marshall Island
+SEYCHELLES|Seychelles
+Ministerio|Nicaragua
+Turke|Turkey
+TN|USA
+Saint Kitts and Nevis|Saint Kitts And Nevis
+Georgia|USA
+GUINEA|Guinea
+MACAO|Macao
+USA|England
+RSA|South Africa
+ICELAND|Iceland
+Korea|South Korea
+South-India|India
+PL|Poland
+Alemania|Germany
+Bangalore|India
+z|Venezuela
+Syrian Arab Republic|Syria
+7000|Brazil
+Sonora|Mexico
+uba|Cuba
+Bélgica.|Belgium
+Pedro Kourí (IPK).|Brazil
+Republica de Panamá.|Panama
+Guinee|Guinea
+Francia|France
+s.p|Switzerland
+GABON|Gabon
+s.p|Romania
+Kharagpur|India
+ICEI|Chile
+Espa ña|Spain
+Álava|Spain
+s.p|Argentina
+(PORTUGAL|Portugal
+ANTIGUA BARBU|Antigua Barbu
+GR|Greece
+Johannesburg|South Africa
+P.R, China|Peoples R China
+s.p|Israel
+s.p|United Kingdom
+TONGA|Tonga
+R. P|Panama
+(IT|Italy
+Tuirkey|Turkey
+Falkland Islands|Falkland Islands
+Brasli|Brazil
+D&#305;yarbak&#305;r|Turkey
+ARGENTINA|England
+mcmteixeirafilho@agr.feis.unesp.br|Brazil
+Haryana|India
+South Af|South Africa
+Antillas|Neth Antilles
+Bolívar|Venezuela
+D. F.|Mexico
+Siria|Syria
+29041-060|Brazil
+FR POLYNESIA|Fr Polynesia
+Guanajuato|Mexico
+MARTINIQUE|Martinique
+Chennai|India
+PR China|Peoples R China
+Beirut|Liban
+Saudi Arabi|Saudi Arabia
+ALBANIA|USA
+BE|Belgium
+ESPANA|Spain
+ESTADOS UNIDOS|USA
+EUA|USA
+U S A|USA
+FRANCA|France
+ESPANHA|Spain
+BR|Brazil
+UNITED STATES|USA
+THE NETHERLANDS|Netherlands
+ALEMANHA|Germany
+EE UU|USA
+REPUBLICA ARGENTINA|Argentina
+REINO UNIDO|United Kingdom
+INGLATERRA|United Kingdom
+P R CHINA|Peoples R China
+BELGICA|Belgium
+ESTADOS UNIDOS DE AMERICA|USA
+HOLANDA|Netherlands
+US|USA
+EEUU|USA
+SUIZA|Switzerland
+BRASI|Brazil
+U K|United Kingdom
+SUECIA|Sweden
+REPUBLIC OF KOREA|South Korea
+PEOPLE S REPUBLIC OF CHINA|Peoples R China
+BRAZI|Brazil
+REP ARGENTINA|Argentina
+JAPON|Japan
+SUICA|Switzerland
+URUGUAI|Uruguay
+VIET NAM|Vietnam
+REPUBLICA DOMINICANA|Dominican Rep
+JAPAO|Japan
+REPUBLICA BOLIVARIANA DE VENEZUELA|Venezuela
+DINAMARCA|Denmark
+ESTADOS UNIDOS DE NORTEAMERICA|USA
+MOCAMBIQUE|Mozambique
+TRINIDAD AND TOBAGO|Trinid Tobago
+NORUEGA|Norway
+UNITED REPUBLIC OF TANZANIA|Tanzania
+CHIL|Chile
+DEUTSCHLAND|Germany
+E U A|USA
+MAROC|Morocco
+UNITED ARAB EMIRATES|U Arab Emirates
+ALGERIE|Algeria
+ESTADOS UNIDOS DA AMERICA|USA
+FINLANDIA|Finland
+ISLAMIC REPUBLIC OF IRAN|Iran
+KINGDOM OF SAUDI ARABIA|Saudi Arabia
+MG|Brazil
+PAISES BAJOS|Netherlands
+RS|Brazil
+SP|Brazil
+ESCOCIA|United Kingdom
+GRECIA|Greece
+MEXICO D F|Mexico
+REPUBLICA DE PANAMA|Panama
+PARAGUAI|Paraguay
+PARIS|France
+TUNISIE|Tunisia
+BAHIA|Brazil
+COTE D IVOIRE|Cote Ivoire
+DEMOCRATIC REPUBLIC OF THE CONGO|Zaire
+POLONIA|Poland
+RUSSIAN FEDERATION|Russia
+SLOVAK REPUBLIC|Slovakia
+BELGIQUE|Belgium
+IRA|Iran
+TURKIYE|Turkey
+ANTIOQUIA|Colombia
+E E U U|USA
+MADRID|Spain
+MEX|Mexico
+TRINIDAD|Trinid Tobago
+U S|USA
+FRENCH GUIANA|FR Guiana
+NOVA ZELANDIA|New Zealand
+RJ|Brazil
+RUSIA|Russia
+ARGENTINE|Argentina
+BARCELONA|Spain
+GRAN BRETANA|United Kingdom
+MARRUECOS|Morocco
+UAE|U Arab Emirates
+UNITED KINGDON|United Kingdom
+AFRICA DO SUL|South Africa
+BUENOS AIRES|Argentina
+CEARA|Brazil
+EQUADOR|Ecuador
+ESTADO DE MEXICO|Mexico
+GRA BRETANHA|United Kingdom
+GUYANE FRANCAISE|FR Guiana
+PT|Portugal
+REPUBLIC OF MACEDONIA|Macedonia
+AFRICA|South Africa
+BASIL|Brazil
+BOSNIA AND HERZEGOVINA|Bosnia Herceg
+ESPAA A|Spain
+HILE|Chile
+HUNGRIA|Hungary
+MEJICO|Mexico
+MONGOLIA|Mongol Peo Rep
+NORTHERN IRELAND|North Ireland
+PAISES BAIXOS|Netherlands
+PARANA|Brazil
+PE|Brazil
+REPUBLICA ORIENTAL DEL URUGUAY|Uruguay
+SERVIA|Serbia
+SUDAFRICA|South Africa
+SULTANATE OF OMAN|Oman
+ARABIA SAUDITA|Saudi Arabia
+BOGOTA|Colombia
+BRASILIA|Brazil
+CAMEROUN|Cameroon
+EGITO|Egypt
+FLORIDA|USA
+IRLANDA|Ireland
+KOSOVA|Kosovo
+LIBANO|Lebanon
+MEXICO DF|Mexico
+NUEVA ZELANDA|New Zealand
+PB|Brazil
+PORTUGA|Portugal
+REPUBLICA CHECA|Czech Republic
+REPUBLICA DE ANGOLA|Angola
+RUMANIA|Romania
+SANTIAGO|Chile
+SINGAPURA|Singapore
+SUISSE|Switzerland
+UNITED STATES OF AMERICA USA|USA
+VALENCIA|Spain
+WESTERN AUSTRALIA|Australia
+36571 000|Brazil
+ALASKA|USA
+AM|Brazil
+ARG|Argentina
+ASTURIAS|Spain
+BA|Brazil
+BRAIL|Brazil
+CE|Brazil
+CORDOBA|Spain
+COREIA DO SUL|South Korea
+CUB|Cuba
+ENGLAND UK|United Kingdom
+ESPAN|Spain
+I R IRAN|Iran
+IT|Italy
+KINGDOM OF BAHRAIN|Bahrain
+LONDON|United Kingdom
+MALASIA|Malaysia
+MEXIC|Mexico
+MT|Brazil
+NETHERLANDS ANTILLES|Neth Antilles
+NEW CALEDONIA|New Caledonia
+PAPUA NEW GUINEA|Papua N Guinea
+PORTUGUAL|Portugal
+R ARGENTINA|Argentina
+REPUBLIC OF SOUTH AFRICA|South Africa
+REPUBLIC OF THE CONGO|Congo
+ROMA|Italy
+ROMENIA|Romania
+SERBIA AND MONTENEGRO|Serbia Monteneg
+SOUTHERN AFRICA|South Africa
+SURINAME|Surinam
+SWAZILAND|Switzerland
+TAILANDIA|Thailand
+TEXAS|USA
+THE GAMBIA|Gambia
+TRINIDAD TOBAGO|Trinid Tobago
+UCRANIA|Ukraine
+VENEZUEL|Venezuela
+VENZUELA|Venezuela
+ZULIA|Venezuela
+18618 000|Brazil
+37200 000|Brazil
+52171 900|Brazil
+58109 970|Brazil
+81531 990|Brazil
+96201 900|Brazil
+97105 900|Brazil
+ALAGOAS|Brazil
+AR|Argentina
+ARGENTIN|Argentina
+ARGETINA|Argentina
+BARZIL|Brazil
+BOYACA|Colombia
+BRAS|Brazil
+BRASI L|Brazil
+BRASILL|Brazil
+BRAZILL|Brazil
+BRITISH WEST INDIES|West Indies
+CALI|Colombia
+CENTRAL AFRICAN REPUBLIC|Cent Afr Republ
+CHIN|Peoples R China
+CIUDAD DE LA HABANA|Cuba
+COAHUILA|Mexico
+COL|Colombia
+COLOMBIE|Colombia
+CORREO|Cuba
+COSTA|Costa Rica
+CUBA A NAME CARGO A|Cuba
+CUNDINAMARCA|Denmark
+D F MEXICO|Mexico
+DEMOCRATIC REPUBLIC OF CONGO|Zaire
+DEUTCHLAND|Germany
+E MAIL|Brazil
+EEEU|USA
+EGIPTO|Egypt
+ESLOVENIA|Slovenia
+ESPANYA|Spain
+ETIOPIA|Ethiopia
+FR|France
+GOIAS|Brazil
+GRANMA|Cuba
+GREAT BRITAIN|United Kingdom
+HAWAII|USA
+HOLLAND|Netherlands
+JORDANIA|Jordan
+LA HABANA|Cuba
+LISBOA|Portugal
+LITUANIA|Lithuania
+MALASYA|Malaysia
+MANIZALES|Colombia
+MS|Brazil
+NUEVA ZELANDIA|New Zealand
+REPUBLIC OF MOLDOVA|Moldova
+REPUBLIC OF SERBIA|Serbia
+REPUBLIC OF SLOVENIA|Slovenia
+REPUBLICA DE YEMEN|Yemen
+REPUBLICA POPULAR CHINA|Peoples R China
+REPUBLICA TCHECA|Czech Republic
+RIO GRANDE DO SUL|Brazil
+RN|Brazil
+RS BRASIL|Brazil
+RU|United Kingdom
+SAN JOSE|Costa Rica
+SANTANDER|Colombia
+SAUDIA ARABIA|Saudi Arabia
+SC|Brazil
+TAIWAN R O C|Taiwan
+TALCA|Chile
+TARRAGONA|Spain
+THE CZECH REPUBLIC|Czech Republic
+THE PEOPLE S REPUBLIC OF CHINA|Peoples R China
+THE PHILIPPINES|Philippines
+THE UNITED REPUBLIC OF TANZANIA|Tanzania
+TIMOR LESTE|Timor-Leste
+TOBAGO|Trinid Tobago
+TUNEZ|Tunisia
+UNIDET STATES|USA
+UNITED STATE|USA
+VENEZELA|Venezuela
+32700|Cuba
+88509900|Brazil
+01402 971|Brazil
+05015 901|Brazil
+05508 900|Brazil
+13084 971|Brazil
+13560 970|Brazil
+13635 900|Brazil
+15385 000|Brazil
+18618 970|Brazil
+21040 360|Brazil
+21041 210|Brazil
+21615 220|Brazil
+21941 909|Brazil
+28013 602|Brazil
+29075 010|Brazil
+30160 030|Brazil
+49080 470|Brazil
+49100 000|Brazil
+50670 420|Brazil
+50670 901|Brazil
+58390 000|Brazil
+58397 000|Brazil
+58700 000|Brazil
+59 059 900|Brazil
+59072 970|Brazil
+59625 900|Brazil
+68743 080|Brazil
+70610 200|Brazil
+72002 970|Brazil
+74001 970|Brazil
+74605 050|Brazil
+76940 000|Brazil
+77400 000|Brazil
+79106 550|Brazil
+79320 900|Brazil
+80 100|Cuba
+85960 000|Brazil
+88010 970|Brazil
+88035 001|Brazil
+88062 025|Brazil
+88520 000|Brazil
+89809 000|Brazil
+90035 003|Brazil
+96010 900|Brazil
+A HREF MAILTO IMARTINS USP BR IMARTINS USP BR A|Brazil
+A HREF MAILTO LEVY INCAPER ES GOV BR LEVY INCAPER ES GOV BR A|Brazil
+A HREF MAILTO MARIAELENANEIRA HOTMAIL COM MARIAELENANEIRA HOTMAIL COM A|Brazil
+ACORES|Portugal
+ADELI SERCOMTEL COM BR|Brazil
+AFCIRELLI FVET UBA AR|Brazil
+AGENTINA|Argentina
+AHMEDABAD|India
+AIRES ARGENTINA|Argentina
+AK|USA
+AL|Brazil
+ALTO BIOBIO|Chile
+AMARTINR US ES|Spain
+AMAZONAS|Brazil
+ANDAMAN AND NICOBAR ISLANDS|India
+ANTIGUA AND BARBUDA|Antigua Barbu
+ANTOFAGASTA|Chile
+ARAGUA|Venezuela
+ARGELIA|Algeria
+ARGENITNA|Argentina
+ARGENTINA A NAME BM A|Argentina
+ARGENTINA A NAME BM2 A|Argentina
+ARGENTINE REPUBLIC|Argentina
+ARGENTITINA|Argentina
+ARQENTINA|Argentina
+AVEIRO|Portugal
+AVRMLCCR EERP USP BR|Brazil
+BAJA CALIFORNIA MEXICO|Mexico
+BANGKOK THAILAND|Thailand
+BARSIL|Brazil
+BEGIUM|Belgium
+BELICE|Belize
+BERLIN|Germany
+BOTUCATU|Brazil
+BRA SIL|Brazil
+BRAISL|Brazil
+BRASILB|Brazil
+BRASILE|Brazil
+BRASILS|Brazil
+BRASL|Brazil
+BRASSIL|Brazil
+BRAZIL E MAIL|Brazil
+BRAZILI|Brazil
+BRAZILIL|Brazil
+BRESIL|Brazil
+BRISTOL|United Kingdom
+BRSIL|Brazil
+BRTASIL|Brazil
+BRUXELLES|Belgium
+BRZAIL|Brazil
+BRZIL|Brazil
+BUCARAMANGA|Colombia
+BULGARY|Bulgaria
+BURKINA|Burkina Faso
+C R|Costa Rica
+CABO VERDE|Cape Verde
+CADIZ|Spain
+CALIFORNIA|USA
+CAMAGUEY|Cuba
+CAMERUN|Cameroon
+CARABOBO|Venezuela
+CARACAS|Venezuela
+CARVALHO UFRRJ BR|Brazil
+CATAR|Qatar
+CAYMAN ISLANDS|W Ind Assoc St
+CCOLOMBIA|Colombia
+CF10 3AX|United Kingdom
+CHANIA GREECE|Greece
+CHIAPAS|Mexico
+CHIILE|Chile
+CHILA|Chile
+CHILE A NAME AF4 A|Chile
+CHILE A NAME BM3 A|Chile
+CHILE A NAME BM4 A|Chile
+CHILE A NAME MEDICINA A|Chile
+CHILE A NAME SERVICIO A|Chile
+CHILE A NAME Z A|Chile
+CHILLAN|Chile
+CHILLE|Chile
+CHINESE TAIWAN|Taiwan
+CHIPRE|Cyprus
+CHLILE E MAIL|Chile
+CHOCO|Colombia
+CIUDAD DE MEXICO|Mexico
+CLARA|Cuba
+COLOBIA|Colombia
+COLOMBI A|Colombia
+COLOMBIA S A|Colombia
+COLUMBIA|Colombia
+CONCEPCIO|Chile
+CONCEPCION|Chile
+CONNECTICUT|USA
+COREIA|South Korea
+CORRESPONDENCIA|Mexico
+COSA RICA|Costa Rica
+COSTA RIC|Costa Rica
+CROACIA|Croatia
+CURITIBA|Brazil
+DC|USA
+DK|Denmark
+DOHA|Qatar
+DRC|Zaire
+DUBAI|U Arab Emirates
+EAU|U Arab Emirates
+EDO DE MEXICO|Mexico
+EDO VENEZUELA|Venezuela
+EE U|USA
+EESPANA|Spain
+EL SALVADOR LA REVISTA DE LA ASOCIACION SALVADORENA DE CARDIOLOGIA SE EDITO EN EL PERIODO 2003 2005|El Salvador
+ELVAS|Portugal
+EMILIOAZ UFMT BR|Brazil
+EMIRATOS ARABES UNIDOS|U Arab Emirates
+ENGLAND AND WALES|United Kingdom
+EPANA|Spain
+ESCOCIA REINO UNIDO|United Kingdom
+ESLOVAQUIA|Slovakia
+ESPA NTILDE A|Spain
+ESPAIN|Spain
+ESPANHAL|Spain
+ESPNAA|Spain
+ESTADOS|USA
+ESTADOS UNIDO|USA
+ESTADOS UNIDOS DE NORTE AMERICA|USA
+EUROLAND|Germany
+FAISLABAD|Pakistan
+FCUNHA SC USP BR|Brazil
+FRENCH|France
+G B|United Kingdom
+GA|USA
+GABRIELA FIOCRUZ BR|Brazil
+GALES|United Kingdom
+GAUTENG|South Africa
+GAZIPUR|Bangladesh
+GEMANY|Germany
+GINEBRA|Switzerland
+GO|Brazil
+GOIANIA|Brazil
+GOTTINGEN|Germany
+GRAN DUCADO DE LUXEMBURGO|Luxembourg
+GRAND DUCHY OF LUXEMBOURG|Luxembourg
+GRECE|Greece
+GRERMANY|Germany
+GUADELOUPE FWI|Guadeloupe
+GUARICO|Venezuela
+GUIANA FRANCESA|FR Guiana
+GUIPUZCOA|Spain
+GUYANE FANCAISE|FR Guiana
+HABANA|Cuba
+HOLANDA PAISES BAIXOS|Netherlands
+HOUSTON|USA
+I R|Iran
+I RDC|Zaire
+INDIAN|India
+INSILVA SC USP BR|Brazil
+IOWA|USA
+IRLANDA DO NORTE|North Ireland
+ISLAS CANARIAS|Spain
+ISTANBUL TURKEY|Turkey
+ITA|Italy
+ITALIE|Italy
+JABOTICABAL|Brazil
+JAIPUR|India
+JALISCO|Mexico
+JERUSALEM|Israel
+JOSCAR CPAFRR EMBRAPA BR|Brazil
+KATIA IFF FIOCRUZ BR|Brazil
+KENNETH UERJ|Brazil
+KENTUCKY|USA
+KSA|Saudi Arabia
+KSA KINGDOM OF SAUDI ARABIA|Saudi Arabia
+KWAIT|Kuwait
+L|Brazil
+LANUS|Argentina
+LAO PDR|Laos
+LAO PEOPLE S DEMOCRATIC REPUBLIC|Laos
+LEBANO|Lebanon
+LETONIA|Latvia
+LIBIA|Libya
+LISBON|Portugal
+LONDRES|United Kingdom
+LOUGHBOROUGH|United Kingdom
+LSDIAS UEVORA PT|Portugal
+MA A A XICO|Mexico
+MA XICO|Mexico
+MADURAI|India
+MALAGA|Spain
+MALAYASIA|Malaysia
+MANAUS|Brazil
+MARISABELALBERS YAHOO ES|Venezuela
+MARO|Morocco
+MAROCCO|Morocco
+MARROCOS|Morocco
+MARTINICA|Martinique
+MARYLAND|USA
+MATANZAS|Cuba
+MCORTESRO UNAL EDU CO|Colombia
+ME XICO|Mexico
+MEDELLIN|Colombia
+MERIDA|Venezuela
+MEXICO C P|Mexico
+MEXIQUE|Mexico
+MG BRASIL|Brazil
+MINAS GERAIS|Brazil
+MIRANDA|Venezuela
+MONTERIA|Colombia
+MORROCCO|Morocco
+MUYIWAKING YAHOO COM|Nigeria
+MX|Mexico
+NAIGERIA|Nigeria
+NAVARRA|Spain
+NAYARIT MEXICO|Mexico
+NEDERLANDS|Netherlands
+NEPA|Nepal
+NEW MEXICO|Mexico
+NEW ZELAND|New Zealand
+NICOLETI UTFPR EDU BR|Brazil
+NIGARAGUA|Nicaragua
+NIGERIS|Nigeria
+NORW AY|Norway
+NORWICH|United Kingdom
+NR4 7TJ|United Kingdom
+NY|USA
+ODISHA INDIA|India
+OEIRAS|Portugal
+OSHUN STATE|Nigeria
+P R|Puerto Rico
+P R OF CHINA|Peoples R China
+PA|Brazil
+PAIS DE GALES|United Kingdom
+PAIS VASCO|Spain
+PAKISTA|Pakistan
+PAKISTANA|Pakistan
+PAKSITAN|Pakistan
+PALESTINA|Palestine
+PANAMA BRASIL|Brazil
+PARA|Brazil
+PARAIBA|Brazil
+PAULO FCT UNESP BR|Brazil
+PE BRAZIL|Brazil
+PENNSYLVANIA|USA
+PEOPLE REPUBLIC OF CHINA|Peoples R China
+PEOPLE RSQUO S REPUBLIC OF CHINA|Peoples R China
+PIAUI|Brazil
+PINAR DEL RIO|Cuba
+PIRACICABA|Brazil
+POLYNESIE FRANCAISE|FR Polynesia
+POPULAR REPUBLIC OF CHINA|Peoples R China
+PORTO ALEGRE|Brazil
+PORTUGL|Portugal
+POSTUGAL|Portugal
+PR|Puerto Rico
+PRC|Peoples R China
+PRINCIPADO DE ANDORRA|Andorra
+PRINCIPADO DE ASTURIAS|Spain
+PRINCIPAT D ANDORRA|Andorra
+PUE|Mexico
+PUEBLA|Mexico
+QUEBEC|Canada
+R D CONGO|Zaire
+R O CHINA|Peoples R China
+R O DEL URUGUAY|Uruguay
+R P CHINA|Peoples R China
+RAJASTHAN|India
+RAPUBLICA ARGENTINA|Argentina
+RAREIS FCAV UNESP BR|Brazil
+RASIL|Brazil
+RAZIL|Brazil
+RBUSQUET UFRRJ BR|Brazil
+REP DE PANAMA|Panama
+REP DEL URUGUAY|Uruguay
+REPUBLIC CHINA|Peoples R China
+REPUBLIC OF ARMENIA|Armenia
+REPUBLIC OF INDIA|India
+REPUBLIC OF SOUTH SUDAN|South Sudan
+REPUBLIC OF TANZANIA|Tanzania
+REPUBLIC OF TRINIDAD AND TOBAGO|Trinid Tobago
+REPUBLICA BOLIVARIANA DE VENZUELA|Venezuela
+REPUBLICA CHEC|Czech Republic
+REPUBLICA DA COREIA|South Korea
+REPUBLICA DE ARGENTINA|Argentina
+REPUBLICA DE CUBA|Cuba
+REPUBLICA DE HONDURAS|Honduras
+REPUBLICA DE MEXICO|Mexico
+REPUBLICA DEL ECUADOR|Ecuador
+REPUBLICA DEL PERU|Peru
+REPUBLICA DO PANAMA|Panama
+REPUBLICA ESLOVACA|Slovakia
+REPUBLICA FEDERAL DA ALEMANHA|Germany
+REPUBLICA FEDERAL DE ALEMANIA|Germany
+REPUBLICA ORIENTAL DELURUGUAY|Uruguay
+REPUBLICA POPULAR DA CHINA|Peoples R China
+REPUBLICA POPULAR DE CHINA|Peoples R China
+RICA|Costa Rica
+RIO BRANCO|Brazil
+RIO DE JANEIRO|Brazil
+RK|United Kingdom
+RODRIGUESAGUIAR UTFPR EDU BR|Brazil
+S L P|Mexico
+SAN SALVADOR|El Salvador
+SANTA CATARINA|Brazil
+SANTIAGO DE CHILE|Chile
+SANTO DOMINGO REPUBLICA DOMINICANA|Dominican Rep
+SAO PAULO|Brazil
+SCHWEIZ|Switzerland
+SCOTLAND UK|United Kingdom
+SELANGOR DARUL EHSAN|Malaysia
+SERBIA MONTENEGRO|Serbia Monteneg
+SERGIPE|Brazil
+SHAHREKORD|Iran
+SHIRAZ|Iran
+SIDNEY IAC SP GOV BR|Brazil
+SIERRA LEONA|Sierra Leone
+SINALOA|Mexico
+SINGAPUR|Singapore
+SOUTH AFRICAN|South Africa
+SOUTH AFRICAS|South Africa
+SOUTH AUSTRALIA|Australia
+SP BRAZIL|Brazil
+SPANA|Spain
+STANLEY CNPTIA EMBRAPA BR|Brazil
+STATE OF KUWAIT|Kuwait
+STATE OF QATAR|Qatar
+SUCRE|Bolivia
+SUDAO|Sudan
+SUR DE AFRICA|South Africa
+SWIRZERLAND|Switzerland
+SWITERLAND|Switzerland
+SWITZERLAN|Switzerland
+SYDNEY|Australia
+TAIWAN REPUBLIC OF CHINA|Taiwan
+TAIWAN ROC|Taiwan
+TALY|Italy
+THALIAND|Thailand
+THE CONGO|Congo
+THE ISLAMIC REPUBLIC OF IRAN|Iran
+THE LAO PEOPLE S DEMOCRATIC REPUBLIC|Laos
+THE NETHERLAN DS|Netherlands
+THE NETHERTLANDS|Netherlands
+THE REPUBLIC OF THE MARSHALL ISLANDS|Marshall Island
+THE RUSSIAN FEDERATION|Russia
+THE SUDAN|Sudan
+THE UNITED STATES|USA
+TOLIMA|Colombia
+TRINIDAD Y TOBAGO|Trinid Tobago
+TUNES|Tunisia
+TURKIA|Turkey
+U|USA
+UEA|USA
+UNITED ARAB EMIRATES UAE|U Arab Emirates
+UNITED KINDGOM|United Kingdom
+UNITED KING|United Kingdom
+UNITED OF STATES|USA
+UNITED SATES|USA
+UNITED STATE OF AMERICA|USA
+UNITED STATED|USA
+UNITED STATES OF AMERIC|USA
+UNITED STATUS OF AMERICA|USA
+UNITES STATES|USA
+UNITES STATES OF AMERICA|USA
+UTRECHT NETHERLANDS|Netherlands
+UTS|Australia
+VALLE|Colombia
+VECEZUELA|Venezuela
+VENAZUELA|Venezuela
+VENEZUELA SAYAGOZ YAHOO ES|Venezuela
+VENEZULEA|Venezuela
+VERACRUZ|Mexico
+VICOSA|Brazil
+VILLA CLARA|Cuba
+VIRGINIA|USA
+VZLA|Venezuela
+WAKNAGHAT|India
+WARSAW|Poland
+ZARIA|Nigeria
+ZIL|Brazil
+ZIMBAWE|Zimbabwe

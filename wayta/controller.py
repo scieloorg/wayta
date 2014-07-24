@@ -37,13 +37,13 @@ class DataBroker(object):
         choices = {}
         for hit in data['hits']['hits']:
 
-            choices.setdefault(
-                hit['_source']['name'],
-                {'value': hit['_source']['name'], 'score': hit['_score']}
-            )
+            choices.setdefault(hit['_source']['name'], float(hit['_score']))
 
-        for choice, value in choices.items():
-            response['choices'].append(value)
+        ch = []
+        for choice, score in choices.items():
+            ch.append({'value': choice, 'score': score})
+
+        response['choices'] = sorted(ch, key=lambda k: k['score'], reverse=True)
 
         if len(response['choices']) == 1:
             response['head']['match'] = 'by_similarity'
@@ -52,7 +52,7 @@ class DataBroker(object):
 
         return response
 
-    def similar(self, q, country, index):
+    def similar(self, index, q):
 
         if not index in INDEXES_DOC_TYPE:
             raise TypeError('Invalid index name: %s' % index)
@@ -61,9 +61,6 @@ class DataBroker(object):
 
         if q:
             data['form'] = q
-
-        if country:
-            data['country'] = country
 
         qbody = {
             'query': {

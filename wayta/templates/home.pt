@@ -13,7 +13,11 @@
                 <form class="form-inline" role="form" method="POST">
                     <div class="form-group">
                         <label class="sr-only" for="q">institution</label>
-                        <input type="text" name="q" class="form-control" size="100" id="q" placeholder="Enter an institution name"/>
+                        <input type="text" name="q" class="form-control" size="100" id="q" placeholder="Write something here"/>
+                        <select name="index" class="form-control" id="index">
+                            <option value="institutions" selected="True">Institutions</option>
+                            <option value="countries">Countries</option>
+                        </select>
                     </div>
                   <button type="submit" class="btn btn-default">go</button>
                 </form>
@@ -36,8 +40,14 @@
         <div class="row">
             <div class="col-md-1"></div>
             <div class="col-md-10">
-                <h4>Purpose</h4>
-                The main pourpouse of this API, is to avoid or at least decrease the number of institution names to be included into XML files in a wrong form. It means that this tool will suggest the correct name o a given institution name. It may be used by the SciELO team and anyone involved in the production of XML documents that must be compliant with the SciELO Publishing Schema.
+                <div class="panel panel-info">
+                    <div class="panel-heading">
+                        <h3 class="panel-title">Purpose</h3>
+                    </div>
+                    <div class="panel-body">
+                        The main pourpouse of this API, is to avoid or at least decrease the number of institution names to be included into XML files in a wrong form. It means that this tool will suggest the correct name o a given institution name. It may be used by the SciELO team and anyone involved in the production of XML documents that must be compliant with the SciELO Publishing Schema.
+                    </div>
+                </div>
             </div>
             <div class="col-md-1"></div>
         </div>
@@ -45,24 +55,42 @@
             <div class="col-md-1"></div>
             <div class="col-md-10">
                 <h4>How to query?</h4>
+                <blockquote>
+                    /api/v1/institution?q=USP
+                    <h5>Response</h5>
+                    <code>
+                        {
+                            "head": {
+                                "match": "by_similarity"
+                            },
+                            "choices": [
+                                {
+                                    "score": 8.036916,
+                                    "value": "Universidade de São Paulo"
+                                }
+                            ]
+                        }
+                    </code>
+                </blockquote>
+                <blockquote>
+                    /api/v1/country?q=AZIL
+                    <h5>Response</h5>
+                    <code>
+                        {
 
-                <h5>Endpoint</h5>
-                /api/v1/institution?q=USP
+                            "head": {
+                                "match": "by_similarity"
+                            },
+                            "choices": [
+                                {
+                                    "score": 5.61512,
+                                    "value": "Brazil"
+                                }
+                            ]
 
-                <h5>Response</h5>
-                <code>
-                    {
-                        "head": {
-                            "match": "by_similarity"
-                        },
-                        "choices": [
-                            {
-                                "score": 8.036916,
-                                "value": "Universidade de São Paulo"
-                            }
-                        ]
-                    }
-                </code>
+                        }
+                    </code>
+                </blockquote>
             </div>
             <div class="col-md-1"></div>
         </div>

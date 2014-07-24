@@ -26,6 +26,7 @@ def main(global_config, **settings):
     config.add_static_view('static', 'static', cache_max_age=3600)
     config.add_route('home', '/')
     config.add_route('institution', '/api/v1/institution')
+    config.add_route('country', '/api/v1/country')
     config.add_request_method(add_databroker, 'databroker', reify=True)
 
     config.scan()
