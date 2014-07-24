@@ -5,10 +5,12 @@ from elasticsearch import Elasticsearch
 import argparse
 
 
-def institutions(tabfile='normalized_aff.txt'):
+def institutions(tabfile='normalized_aff.txt', encoding='utf-8'):
     es = Elasticsearch()
 
-    with codecs.open(tabfile, 'r', encoding='iso-8859-1') as f:
+    es.indices.delete(index='institutions', ignore=[400, 404])
+
+    with codecs.open(tabfile, 'r', encoding=encoding) as f:
 
         for line in f:
             splited = line.split('|')
@@ -22,10 +24,12 @@ def institutions(tabfile='normalized_aff.txt'):
             res = es.index(index='institutions', doc_type='institution', body=data)
 
 
-def countries(tabfile='normalized_country.txt'):
+def countries(tabfile='normalized_country.txt', encoding='utf-8'):
     es = Elasticsearch()
 
-    with codecs.open(tabfile, 'r', encoding='iso-8859-1') as f:
+    es.indices.delete(index='countries', ignore=[400, 404])
+
+    with codecs.open(tabfile, 'r', encoding=encoding) as f:
 
         for line in f:
             splited = line.split('|')
@@ -49,13 +53,21 @@ def argp():
         help='Index name that will be reloaded'
     )
 
+    parser.add_argument(
+        '--encoding',
+        '-e',
+        default='utf-8',
+        choices=['utf-8', 'iso-8859-1'],
+        help='Index name that will be reloaded'
+    )
+
     args = parser.parse_args()
 
     if args.index == 'institutions':
-        institutions()
+        institutions(encoding=args.encoding)
         print 'Institutions index reloaded'
-    else args.index == 'countries':
-        countries()
+    elif args.index == 'countries':
+        countries(encoding=args.encoding)
         print 'Countries index reloaded'
     else:
         print 'Nothing done! you must select an index'
