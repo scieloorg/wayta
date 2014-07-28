@@ -1127,7 +1127,6 @@ Turkmenistán|Turkmenistan
 Ilhas Turcas e Caicos|Turks and Caicos Islands
 Islas Turcas y Caicos|Turks and Caicos Islands
 Tuvalu|Tuvalu
-Tuvalu|Tuvalu
 DUBAI|U Arab Emirates
 Dubai UAE|U Arab Emirates
 EAU|U Arab Emirates
@@ -1147,9 +1146,8 @@ Ucrânia|Ukraine
 Ucrania|Ukraine
 ARGENTINA|United Kingdom
 UNITED KIGDOM|United Kingdom
-USA|United Kingdom
+USA|USA
 BRISTOL|United Kingdom
-CF10 3AX|United Kingdom
 ENGLAND|United Kingdom
 ENGLAND AND WALES|United Kingdom
 ENGLAND UK|United Kingdom

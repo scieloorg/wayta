@@ -28,11 +28,24 @@
                     <div class="alert alert-${alert}" role="alert" tal:case="'danger'">No matches found for your query</div>
                 </div>
                 <div tal:condition="choices">
-                    <ul class="list-group">
-                        <li class="list-group-item" tal:repeat="choice choices">
-                            ${choice.value} <span class="badge">score ${choice.score}</span>
-                        </li>
-                    </ul>
+                    <table class="table">
+                        <tr>
+                            <th>Choices</th>
+                            <th tal:condition="index=='institutions'">Country</th>
+                            <th>Score</th>
+                        </tr>
+                        <tr tal:repeat="choice choices">
+                            <td>
+                                ${choice.value}
+                            </td>
+                            <td tal:condition="index=='institutions'">
+                                ${choice.country}
+                            </td>
+                            <td>
+                                <span class="badge">score ${choice.score}</span>
+                            </td>
+                        </tr>
+                    </table>
                 </div>
                 <div class="col-md-1"></div>
             </div>

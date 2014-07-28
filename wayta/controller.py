@@ -37,11 +37,11 @@ class DataBroker(object):
         choices = {}
         for hit in data['hits']['hits']:
 
-            choices.setdefault(hit['_source']['name'], float(hit['_score']))
+            choices.setdefault(hit['_source']['name'], {'country': hit['_source']['country'], 'score': float(hit['_score'])})
 
         ch = []
-        for choice, score in choices.items():
-            ch.append({'value': choice, 'score': score})
+        for choice, values in choices.items():
+            ch.append({'value': choice, 'country': values['country'], 'score': values['score']})
 
         response['choices'] = sorted(ch, key=lambda k: k['score'], reverse=True)
 
