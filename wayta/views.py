@@ -38,6 +38,7 @@ def home(request):
 
         data = {
             'query': query,
+            'index': index,
             'alert': alerts.get(str(result['head']['match']), 'danger'),
             'match': str(result['head']['match']),
             'choices': result['choices']
