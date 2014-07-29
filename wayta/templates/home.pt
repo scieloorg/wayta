@@ -32,6 +32,7 @@
                         <tr>
                             <th>Choices</th>
                             <th tal:condition="index=='institutions'">Country</th>
+                            <th tal:condition="index=='countries'">iso-3661 code</th>
                             <th>Score</th>
                         </tr>
                         <tr tal:repeat="choice choices">
@@ -40,6 +41,9 @@
                             </td>
                             <td tal:condition="index=='institutions'">
                                 ${choice.country}
+                            </td>
+                            <td tal:condition="index=='countries'">
+                                ${choice.iso3661}
                             </td>
                             <td>
                                 <span class="badge">score ${choice.score}</span>

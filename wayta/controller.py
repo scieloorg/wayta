@@ -32,18 +32,31 @@ class DataBroker(object):
                     'score': data['hits']['hits'][0]['_score'],
                 }
             )
+
+            if 'iso-3661' in data['hits']['hits'][0]['_source']:
+                response['choices'][0]['iso3661'] = data['hits']['hits'][0]['_source']['iso-3661']
+
             return response
 
+        # Loading just the high scored choice
         choices = {}
         for hit in data['hits']['hits']:
 
-            choices.setdefault(hit['_source']['name'], {'country': hit['_source']['country'], 'score': float(hit['_score'])})
+            choices.setdefault(hit['_source']['name'], {'country': hit['_source']['name'], 'score': float(hit['_score'])})
+            if 'iso-3661' in hit['_source']:
+                choices[hit['_source']['name']]['iso-3661'] = hit['_source']['iso-3661']
 
-        ch = []
+        #
+        best_choices = []
         for choice, values in choices.items():
-            ch.append({'value': choice, 'country': values['country'], 'score': values['score']})
+            best_choice = {'value': choice, 'country': values['country'], 'score': values['score']}
 
-        response['choices'] = sorted(ch, key=lambda k: k['score'], reverse=True)
+            if 'iso-3661' in values:
+                best_choice['iso3661'] = values['iso-3661']
+
+            best_choices.append(best_choice)
+
+        response['choices'] = sorted(best_choices, key=lambda k: k['score'], reverse=True)
 
         if len(response['choices']) == 1:
             response['head']['match'] = 'by_similarity'

@@ -5,7 +5,7 @@ from elasticsearch import Elasticsearch
 import argparse
 
 
-def institutions(tabfile='normalized_aff.txt', encoding='utf-8'):
+def institutions(tabfile='normalized_aff.csv', encoding='utf-8'):
     es = Elasticsearch()
 
     es.indices.delete(index='institutions', ignore=[400, 404])
@@ -24,7 +24,7 @@ def institutions(tabfile='normalized_aff.txt', encoding='utf-8'):
             res = es.index(index='institutions', doc_type='institution', body=data)
 
 
-def countries(tabfile='normalized_country.txt', encoding='utf-8'):
+def countries(tabfile='normalized_country.csv', encoding='utf-8'):
     es = Elasticsearch()
 
     es.indices.delete(index='countries', ignore=[400, 404])
@@ -35,6 +35,7 @@ def countries(tabfile='normalized_country.txt', encoding='utf-8'):
             splited = line.split('|')
             data = {
                 'name': splited[1].strip(),
+                'iso-3661': splited[2].strip(),
                 'form': splited[0].strip(),
                 'timestamp': datetime.now()
             }
