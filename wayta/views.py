@@ -34,7 +34,10 @@ def home(request):
     }
 
     if query:
-        result = request.databroker.similar(index, query)
+        if index == 'institutions':
+            result = request.databroker.similar_institutions(index, query)
+        elif index == 'countries':
+            result = request.databroker.similar_countries(index, query)
 
         data = {
             'query': query,
@@ -54,9 +57,10 @@ def institution(request):
     country = request.GET.get('country', None)
 
     if query:
-        result = request.databroker.similar('institutions', query)
+        result = request.databroker.similar_institutions('institutions', query)
 
     return result
+
 
 @view_config(route_name='country', request_method='GET', renderer='json')
 def country(request):
@@ -65,6 +69,6 @@ def country(request):
     country = None
 
     if query:
-        result = request.databroker.similar('countries', query)
+        result = request.databroker.similar_countries('countries', query)
 
     return result
