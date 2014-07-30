@@ -74,7 +74,7 @@ class ControllerTests(unittest.TestCase):
 
         db = controller.DataBroker(dummy_elasticsearch)
 
-        parsed = db._parse_data(self.sample_data, u'Universidade de Mogi das Cruzes')
+        parsed = db._parse_data_institutions(self.sample_data, u'Universidade de Mogi das Cruzes')
 
         expected = {
             'head': {
@@ -100,7 +100,7 @@ class ControllerTests(unittest.TestCase):
 
         self.sample_data['hits']['hits'] = []
 
-        parsed = db._parse_data(self.sample_data, u'Universidade de Mogi das Cruzes')
+        parsed = db._parse_data_institutions(self.sample_data, u'Universidade de Mogi das Cruzes')
 
         expected = {
             'head': {
@@ -120,7 +120,7 @@ class ControllerTests(unittest.TestCase):
 
         self.sample_data['hits']['hits'] = self.sample_data['hits']['hits'][1:]
 
-        parsed = db._parse_data(self.sample_data, u'Universidade de Mogi das Cruzes')
+        parsed = db._parse_data_institutions(self.sample_data, u'Universidade de Mogi das Cruzes')
 
         expected = {
             'head': {
@@ -158,7 +158,7 @@ class ControllerTests(unittest.TestCase):
         self.sample_data['hits']['hits'] = self.sample_data['hits']['hits'][1:]
         self.sample_data['hits']['hits'].append(usp)
 
-        parsed = db._parse_data(self.sample_data, u'Universidade de Mogi das Cruzes')
+        parsed = db._parse_data_institutions(self.sample_data, u'Universidade de Mogi das Cruzes')
 
         expected = {
             'head': {
