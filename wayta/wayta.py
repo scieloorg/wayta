@@ -76,15 +76,17 @@ def country(request):
     return result
 
 
-def main(global_config, **settings):
+def main(settings):
     """ This function returns a Pyramid WSGI application.
     """
 
+    
     def add_databroker(request):
+
         hosts = [
             {
-                'host': settings['elasticsearch_host'],
-                'port': settings['elasticsearch_port']
+                'host': settings['app:main']['elasticsearch_host'],
+                'port': settings['app:main']['elasticsearch_port']
             }
         ]
 
