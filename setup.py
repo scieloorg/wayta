@@ -9,10 +9,11 @@ with open(os.path.join(here, 'CHANGES.txt')) as f:
     CHANGES = f.read()
 
 requires = [
+    'elasticsearch',
     'pyramid',
     'pyramid_chameleon',
     'pyramid_debugtoolbar',
-    'waitress',
+    'gunicorn',
 ]
 
 tests_requires = [
@@ -20,7 +21,7 @@ tests_requires = [
 ]
 
 setup(name='wayta',
-      version='0.0',
+      version='0.1',
       description='wayta',
       long_description=README + '\n\n' + CHANGES,
       classifiers=[
