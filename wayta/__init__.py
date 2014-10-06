@@ -5,16 +5,15 @@ def main(global_config, **settings):
     """ This function returns a Pyramid WSGI application.
     """
 
+    hosts = [
+        {
+            'host': settings['elasticsearch_host'],
+            'port': settings['elasticsearch_port']
+        }
+    ]
+    es = Elasticsearch(hosts)
+
     def add_databroker(request):
-        hosts = [
-            {
-                'host': settings['elasticsearch_host'],
-                'port': settings['elasticsearch_port']
-            }
-        ]
-
-        es = Elasticsearch(hosts)
-
         return controller.DataBroker(es)
 
     config = Configurator(settings=settings)
