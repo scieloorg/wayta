@@ -1,8 +1,8 @@
 # coding: utf-8
 
 INDEXES_DOC_TYPE = {
-    'institutions': 'institution',
-    'countries': 'country',
+    'institutions': 'wayta_institution',
+    'countries': 'wayta_country',
 }
 
 

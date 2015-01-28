@@ -8,7 +8,7 @@ import argparse
 def institutions(tabfile='normalized_aff.csv', encoding='utf-8'):
     es = Elasticsearch()
 
-    es.indices.delete(index='institutions', ignore=[400, 404])
+    es.indices.delete(index='wayta_institutions', ignore=[400, 404])
 
     with codecs.open(tabfile, 'r', encoding=encoding) as f:
 
@@ -21,13 +21,13 @@ def institutions(tabfile='normalized_aff.csv', encoding='utf-8'):
                 'timestamp': datetime.now()
             }
 
-            res = es.index(index='institutions', doc_type='institution', body=data)
+            res = es.index(index='wayta_institutions', doc_type='institution', body=data)
 
 
 def countries(tabfile='normalized_country.csv', encoding='utf-8'):
     es = Elasticsearch()
 
-    es.indices.delete(index='countries', ignore=[400, 404])
+    es.indices.delete(index='wayta_countries', ignore=[400, 404])
 
     with codecs.open(tabfile, 'r', encoding=encoding) as f:
 
@@ -40,7 +40,7 @@ def countries(tabfile='normalized_country.csv', encoding='utf-8'):
                 'timestamp': datetime.now()
             }
 
-            res = es.index(index='countries', doc_type='country', body=data)
+            res = es.index(index='wayta_countries', doc_type='country', body=data)
 
 
 def argp():
