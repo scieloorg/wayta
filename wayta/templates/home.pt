@@ -15,8 +15,8 @@
                         <label class="sr-only" for="q">institution</label>
                         <input type="text" name="q" class="form-control" size="100" id="q" placeholder="Write something here"/>
                         <select name="index" class="form-control" id="index">
-                            <option value="institutions" selected="True">Institutions</option>
-                            <option value="countries">Countries</option>
+                            <option value="wayta_institutions" selected="True">Institutions</option>
+                            <option value="wayta_countries">Countries</option>
                         </select>
                     </div>
                   <button type="submit" class="btn btn-default">go</button>
