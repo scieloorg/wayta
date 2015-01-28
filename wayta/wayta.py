@@ -32,9 +32,9 @@ def home(request):
     }
 
     if query:
-        if index == 'institutions':
+        if index == 'wayta_institutions':
             result = request.databroker.similar_institutions(index, query)
-        elif index == 'countries':
+        elif index == 'wayta_countries':
             result = request.databroker.similar_countries(index, query)
 
         data = {
