@@ -55,7 +55,7 @@ def institution(request):
     country = request.GET.get('country', None)
 
     if query:
-        result = request.databroker.similar_institutions('institutions', query)
+        result = request.databroker.similar_institutions('wayta_institutions', query)
 
     return result
 
@@ -67,6 +67,6 @@ def country(request):
     country = None
 
     if query:
-        result = request.databroker.similar_countries('countries', query)
+        result = request.databroker.similar_countries('wayta_countries', query)
 
     return result
