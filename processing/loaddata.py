@@ -6,7 +6,7 @@ import argparse
 
 
 def institutions(tabfile='normalized_aff.csv', encoding='utf-8'):
-    es = Elasticsearch('homolog.esa.scielo.org')
+    es = Elasticsearch()
 
     es.indices.delete(index='wayta_institutions', ignore=[400, 404])
 
@@ -25,7 +25,7 @@ def institutions(tabfile='normalized_aff.csv', encoding='utf-8'):
 
 
 def countries(tabfile='normalized_country.csv', encoding='utf-8'):
-    es = Elasticsearch('homolog.esa.scielo.org')
+    es = Elasticsearch()
 
     es.indices.delete(index='wayta_countries', ignore=[400, 404])
 
