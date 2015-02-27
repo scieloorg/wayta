@@ -35,7 +35,7 @@ def countries(tabfile='normalized_country.csv', encoding='utf-8'):
             splited = line.split('|')
             data = {
                 'name': splited[1].strip(),
-                'iso-3661': splited[2].strip(),
+                'iso-3166': splited[2].strip(),
                 'form': splited[0].strip(),
                 'timestamp': datetime.now()
             }

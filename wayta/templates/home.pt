@@ -31,19 +31,19 @@
                     <table class="table">
                         <tr>
                             <th>Choices</th>
-                            <th tal:condition="index=='institutions'">Country</th>
-                            <th tal:condition="index=='countries'">ISO 3166 code</th>
+                            <th tal:condition="index=='wayta_institutions'">Country</th>
+                            <th tal:condition="index=='wayta_countries'">ISO 3166 code</th>
                             <th>Score</th>
                         </tr>
                         <tr tal:repeat="choice choices">
                             <td>
                                 ${choice.value}
                             </td>
-                            <td tal:condition="index=='institutions'">
+                            <td tal:condition="index=='wayta_institutions'">
                                 ${choice.country}
                             </td>
-                            <td tal:condition="index=='countries'">
-                                ${choice.iso3661}
+                            <td tal:condition="index=='wayta_countries'">
+                                ${choice.iso3166}
                             </td>
                             <td>
                                 <span class="badge">score ${choice.score}</span>

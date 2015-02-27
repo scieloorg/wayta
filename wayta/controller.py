@@ -29,7 +29,7 @@ class DataBroker(object):
                 {
                     'value': data['hits']['hits'][0]['_source']['name'],
                     'score': data['hits']['hits'][0]['_score'],
-                    'iso3661': data['hits']['hits'][0]['_source']['iso-3661']
+                    'iso3166': data['hits']['hits'][0]['_source']['iso-3166']
                 }
             )
 
@@ -42,7 +42,7 @@ class DataBroker(object):
             choices.setdefault(hit['_source']['name'], {
                 'country': hit['_source']['name'],
                 'score': float(hit['_score']),
-                'iso3661': hit['_source']['iso-3661']
+                'iso3166': hit['_source']['iso-3166']
             })
 
         best_choices = []
@@ -51,7 +51,7 @@ class DataBroker(object):
                 'value': choice,
                 'country': values['country'],
                 'score': values['score'],
-                'iso3661': values['iso3661']
+                'iso3166': values['iso3166']
             }
 
             best_choices.append(best_choice)
@@ -85,7 +85,8 @@ class DataBroker(object):
             response['choices'].append(
                 {
                     'value': data['hits']['hits'][0]['_source']['name'],
-                    'score': data['hits']['hits'][0]['_score'],
+                    'country':data['hits']['hits'][0]['_source']['country'],
+                    'score': data['hits']['hits'][0]['_score']
                 }
             )
 
