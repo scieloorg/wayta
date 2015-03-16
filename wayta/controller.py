@@ -155,7 +155,7 @@ class DataBroker(object):
 
         return parsed_data
 
-    def similar_institutions(self, index, q):
+    def similar_institutions(self, index, q, country=None):
 
         if not index in INDEXES_DOC_TYPE:
             raise TypeError('Invalid index name: %s' % index)
@@ -166,16 +166,37 @@ class DataBroker(object):
             data['form'] = q
 
         qbody = {
-            'query': {
-                'fuzzy_like_this_field': {
-                    'form': {
-                        'like_text': q,
-                        'fuzziness': 2,
-                        'max_query_terms': 100
-                    }
+            "query": {
+                "bool":{
+                    "should": [
+                        {
+                            "fuzzy_like_this_field": {
+                                "form": {
+                                    "like_text": q,
+                                    "fuzziness": 2,
+                                    "max_query_terms": 100
+                                }
+                            }
+                        }
+                    ],
+                    "minimum_should_match": 1
                 }
             }
         }
+
+        if country:
+            qbody['query']['bool']['minimum_should_match'] = 2
+            qbody['query']['bool']['should'].append([
+                {
+                    "fuzzy_like_this_field": {
+                        "country": {
+                            "like_text": country,
+                            "fuzziness": 2,
+                            "max_query_terms": 100
+                        }
+                    }
+                }
+            ])
 
         parsed_data = self._parse_data_institutions(
             self.es.search(
