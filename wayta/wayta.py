@@ -48,7 +48,7 @@ def home(request):
     return data
 
 
-@view_config(route_name='institution', request_method='GET', renderer='json')
+@view_config(route_name='institution', request_method='GET', renderer='jsonp')
 def institution(request):
 
     query = request.GET.get('q', None)
@@ -60,7 +60,7 @@ def institution(request):
     return result
 
 
-@view_config(route_name='country', request_method='GET', renderer='json')
+@view_config(route_name='country', request_method='GET', renderer='jsonp')
 def country(request):
 
     query = request.GET.get('q', None)
