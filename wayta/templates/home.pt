@@ -90,6 +90,39 @@
                     </code>
                 </blockquote>
                 <blockquote>
+                    /api/v1/institution?q=Católica&country=Brazil
+                    <h5>Response</h5>
+                    <code>
+                        {
+                            "head": {
+                                "match": "multiple"
+                            }, 
+                            "choices": [
+                                {
+                                    "country": "Brazil", 
+                                    "score": 5.4929466, 
+                                    "value": "Universidade Cat\u00f3lica de Santos"
+                                }, 
+                                {
+                                    "country": "Brazil", 
+                                    "score": 5.4929466, 
+                                    "value": "Pontif\u00edcia Universidade Cat\u00f3lica de Campinas"
+                                }, 
+                                {
+                                    "country": "Brazil", 
+                                    "score": 5.4929466, 
+                                    "value": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro"
+                                }, 
+                                {
+                                    "country": "Brazil", 
+                                    "score": 5.4929466, 
+                                    "value": "Pontif\u00edcia Universidade Cat\u00f3lica de S\u00e3o Paulo"
+                                }
+                            ]
+                        }
+                    </code>
+                </blockquote>
+                <blockquote>
                     /api/v1/country?q=AZIL
                     <h5>Response</h5>
                     <code>
