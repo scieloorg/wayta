@@ -21,8 +21,8 @@ tests_requires = [
 ]
 
 setup(name='wayta',
-      version='0.1',
-      description='wayta',
+      version='1.0b',
+      description='A tool to suggest the name of an institution or country in the original form and language.',
       long_description=README + '\n\n' + CHANGES,
       classifiers=[
         "Programming Language :: Python",
