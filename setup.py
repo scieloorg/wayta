@@ -9,15 +9,11 @@ with open(os.path.join(here, 'CHANGES.txt')) as f:
     CHANGES = f.read()
 
 requires = [
-    'elasticsearch',
-    'pyramid',
-    'pyramid_chameleon',
-    'pyramid_debugtoolbar',
-    'gunicorn',
-]
-
-tests_requires = [
-    'mocker'
+    'elasticsearch>=1.1.1',
+    'pyramid>=1.5.1',
+    'pyramid_chameleon>=0.3',
+    'pyramid_debugtoolbar>=2.1',
+    'gunicorn>=19.3.0',
 ]
 
 setup(name='wayta',
@@ -38,9 +34,6 @@ setup(name='wayta',
       include_package_data=True,
       zip_safe=False,
       install_requires=requires,
-      setup_requires=["nose>=1.0", "coverage"],
-      tests_require=tests_requires,
-      test_suite="nose.collector",
       entry_points="""\
       [paste.app_factory]
       main = wayta:main
