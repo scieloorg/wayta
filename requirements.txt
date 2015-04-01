@@ -1,4 +1,0 @@
-elasticsearch
-pyramid
-pyramid_chameleon
-gunicorn
