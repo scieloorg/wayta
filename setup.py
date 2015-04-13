@@ -10,14 +10,13 @@ with open(os.path.join(here, 'CHANGES.txt')) as f:
 
 requires = [
     'elasticsearch>=1.1.1',
-    'pyramid>=1.5.1',
+    'pyramid>=1.5.2',
     'pyramid_chameleon>=0.3',
-    'pyramid_debugtoolbar>=2.1',
-    'gunicorn>=19.3.0',
+    'pyramid_debugtoolbar>=2.1'
 ]
 
 setup(name='wayta',
-      version='1.0b',
+      version='1.1b',
       description='A tool to suggest the name of an institution or country in the original form and language.',
       long_description=README + '\n\n' + CHANGES,
       classifiers=[
