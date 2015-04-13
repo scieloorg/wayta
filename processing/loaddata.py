@@ -1,49 +1,113 @@
 # coding: utf-8
-import codecs
 from datetime import datetime
 from elasticsearch import Elasticsearch
 import argparse
+import csv
 
+from wayta import utils
 
-def institutions(tabfile='normalized_aff.csv', encoding='utf-8'):
-    es = Elasticsearch()
+config = utils.Configuration.from_env()
+settings = dict(config.items())
+ESHOST = settings['app:main'].get('elasticsearch_host', '127.0.0.1')
+ESPORT = settings['app:main'].get('elasticsearch_port', '9200')
+
+def institutions(tabfile='normalized_aff.csv'):
+    es = Elasticsearch(ESHOST, port=ESPORT)
+
+    mapping = {
+        "mappings": {
+            "institution": {
+                "properties": {
+                   "city": {
+                      "type": "string",
+                      "index": "not_analyzed"
+                   },
+                   "country": {
+                      "type": "string",
+                      "index": "not_analyzed"
+                   },
+                   "form": {
+                      "type": "string",
+                      "index": "not_analyzed"
+                   },
+                   "iso-3166": {
+                      "type": "string",
+                      "index": "not_analyzed"
+                   },
+                   "name": {
+                      "type": "string",
+                      "index": "not_analyzed"
+                   },
+                   "state": {
+                      "type": "string",
+                      "index": "not_analyzed"
+                   }
+                }
+            }
+        }
+    }
 
     es.indices.delete(index='wayta_institutions', ignore=[400, 404])
+    es.indices.create(index='wayta_institutions', body=mapping)
 
-    with codecs.open(tabfile, 'r', encoding=encoding) as f:
-
-        for line in f:
-            splited = line.split('|')
+    with open(tabfile, 'r') as csvfile:
+        spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
+        for line in spamreader:
             data = {
-                'name': splited[1].strip(),
-                'form': splited[0].strip(),
-                'country': splited[2].strip(),
+                'name': line[1].strip(),
+                'form': line[0].strip(),
+                'country': line[2].strip(),
+                'iso-3166': line[3].strip(),
+                'state': line[4].strip(),
+                'city': line[5].strip(),
                 'timestamp': datetime.now()
             }
 
             res = es.index(index='wayta_institutions', doc_type='institution', body=data)
 
 
-def countries(tabfile='normalized_country.csv', encoding='utf-8'):
-    es = Elasticsearch()
+def countries(tabfile='normalized_country.csv'):
+    es = Elasticsearch(ESHOST, port=ESPORT)
+
+    mapping = {
+        "mappings": {
+            "country": {
+                "properties": {
+                    "form": {
+                        "type": "string",
+                        "index": "not_analyzed"
+                   },
+                    "iso-3166": {
+                        "type": "string",
+                        "index": "not_analyzed"
+                   },
+                    "name": {
+                        "type": "string",
+                        "index": "not_analyzed"
+                   }           
+                }
+            }
+        }
+    }
 
     es.indices.delete(index='wayta_countries', ignore=[400, 404])
+    es.indices.create(index='wayta_countries', body=mapping)
 
-    with codecs.open(tabfile, 'r', encoding=encoding) as f:
+    with open(tabfile, 'r') as csvfile:
+        spamreader = csv.reader(csvfile, delimiter=';', quotechar='"')
 
-        for line in f:
-            splited = line.split('|')
+        for line in spamreader:
             data = {
-                'name': splited[1].strip(),
-                'iso-3166': splited[2].strip(),
-                'form': splited[0].strip(),
+                'name': line[1].strip(),
+                'iso-3166': line[2].strip(),
+                'form': line[0].strip(),
                 'timestamp': datetime.now()
             }
 
             res = es.index(index='wayta_countries', doc_type='country', body=data)
 
 
-def argp():
+def main():
     parser = argparse.ArgumentParser(
         description="Reload index to elasticsearch")
 
@@ -55,23 +119,18 @@ def argp():
     )
 
     parser.add_argument(
-        '--encoding',
-        '-e',
-        default='utf-8',
-        choices=['utf-8', 'iso-8859-1'],
-        help='Index name that will be reloaded'
+        '--csv_file',
+        '-f',
+        help='CSV file with the data that will be loaded to Wayta'
     )
 
     args = parser.parse_args()
 
     if args.index == 'institutions':
-        institutions(encoding=args.encoding)
+        institutions(tabfile=args.csv_file)
         print 'Institutions index reloaded'
     elif args.index == 'countries':
-        countries(encoding=args.encoding)
+        countries(tabfile=args.csv_file)
         print 'Countries index reloaded'
     else:
         print 'Nothing done! you must select an index'
-
-if __name__ == "__main__":
-    argp()

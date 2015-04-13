@@ -32,7 +32,9 @@
                         <tr>
                             <th>Choices</th>
                             <th tal:condition="index=='wayta_institutions'">Country</th>
-                            <th tal:condition="index=='wayta_countries'">ISO 3166 code</th>
+                            <th>ISO 3166 code</th>
+                            <th tal:condition="index=='wayta_institutions'">State</th>
+                            <th tal:condition="index=='wayta_institutions'">City</th>
                             <th>Score</th>
                         </tr>
                         <tr tal:repeat="choice choices">
@@ -42,8 +44,14 @@
                             <td tal:condition="index=='wayta_institutions'">
                                 ${choice.country}
                             </td>
-                            <td tal:condition="index=='wayta_countries'">
+                            <td>
                                 ${choice.iso3166}
+                            </td>
+                            <td tal:condition="index=='wayta_institutions'">
+                                ${choice.state}
+                            </td>
+                            <td tal:condition="index=='wayta_institutions'">
+                                ${choice.city}
                             </td>
                             <td>
                                 <span class="badge">score ${choice.score}</span>

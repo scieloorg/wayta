@@ -38,14 +38,9 @@ class Configuration(SingletonMixin):
     @classmethod
     def from_env(cls):
         try:
-            filepath = os.environ['CITEDBY_SETTINGS_FILE']
+            filepath = os.environ['WAYTA_SETTINGS_FILE']
         except KeyError:
-            if __debug__:
-                # load the test configurations
-                cwd = os.path.join(os.path.dirname(__file__))
-                filepath = os.path.join(cwd, '..', 'config-test.ini')
-            else:
-                raise ValueError('missing env variable CITEDBY_SETTINGS_FILE')
+            raise ValueError('missing env variable WAYTA_SETTINGS_FILE')
 
         return cls.from_file(filepath)
 
@@ -65,5 +60,5 @@ class Configuration(SingletonMixin):
     def items(self):
         """Settings as key-value pair.
         """
-        return [(section, dict(self.conf.items(section))) for \
+        return [(section, dict(self.conf.items(section, raw=True))) for \
             section in [section for section in self.conf.sections()]]

@@ -84,8 +84,11 @@ class DataBroker(object):
             response['head']['match'] = 'exact'
             response['choices'].append(
                 {
-                    'value': data['hits']['hits'][0]['_source']['name'],
-                    'country':data['hits']['hits'][0]['_source']['country'],
+                    'value': data['hits']['hits'][0]['_source'].get('name', ''),
+                    'country':data['hits']['hits'][0]['_source'].get('country', ''),
+                    'state':data['hits']['hits'][0]['_source'].get('state', ''),
+                    'city':data['hits']['hits'][0]['_source'].get('city', ''),
+                    'iso3166':data['hits']['hits'][0]['_source'].get('iso-3166', ''),
                     'score': data['hits']['hits'][0]['_score']
                 }
             )
@@ -95,9 +98,11 @@ class DataBroker(object):
         # Loading just the high scored choice
         choices = {}
         for hit in data['hits']['hits']:
-
             choices.setdefault(hit['_source']['name'], {
-                'country': hit['_source']['country'],
+                'country': hit['_source'].get('country', ''),
+                'state': hit['_source'].get('state', ''),
+                'city': hit['_source'].get('city', ''),
+                'iso3166': hit['_source'].get('iso-3166', ''),
                 'score': float(hit['_score'])
             })
 
@@ -106,6 +111,9 @@ class DataBroker(object):
             best_choice = {
                 'value': choice,
                 'country': values['country'],
+                'state': values['state'],
+                'city': values['city'],
+                'iso3166': values['iso3166'],
                 'score': values['score']
             }
 
