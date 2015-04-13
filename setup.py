@@ -37,5 +37,7 @@ setup(name='wayta',
       entry_points="""\
       [paste.app_factory]
       main = wayta:main
+      [console_scripts]
+      wayta_loaddata=processing.loaddata:main
       """,
       )
