@@ -78,91 +78,91 @@ Endpoint::
 
 Parameters:
 
-+------------+-----------------------+-----------------------------+
-| Paremeter  | Description           | Mandatory                   |
-+============+=======================+=============================+
-| **q**      | Institution Name      | yes                         |
-+------------+-----------------------+-----------------------------+
-| callback   | JSONP callback method | No                          |
-+------------+-----------------------+-----------------------------+
++-------------+-----------------------+-----------------------------+
+| Paremeter   | Description           | Mandatory                   |
++=============+=======================+=============================+
+| **q**       | Institution Name      | yes                         |
++-------------+-----------------------+-----------------------------+
+| **country** | Country Name          | No                          |
++-------------+-----------------------+-----------------------------+
+| callback    | JSONP callback method | No                          |
++-------------+-----------------------+-----------------------------+
 
-``GET /api/v1/institution/?q=Católica``
+``GET /api/v1/institution?q=Pontifícia%20Universidade%20Católica``
 
 
 Response::
 
     {
-        "head": {
-            "match": "multiple"
-        }, 
-        "choices": [
+        head: {
+            match: "multiple"
+        },
+        choices: [
             {
-                "country": "Colombia", 
-                "score": 3.616078, 
-                "value": "Pontificia Universidad Bolivariana"
-            }, 
+                city: "Rio de Janeiro",
+                country: "Brazil",
+                value: "Pontifícia Universidade Católica do Rio de Janeiro",
+                state: "Rio de Janeiro",
+                score: 8.287096,
+                iso3166: "BR"
+            },
             {
-                "country": "Brazil", 
-                "score": 3.616078, 
-                "value": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro"
-            }, 
+                city: "São Paulo",
+                country: "Brazil",
+                value: "Pontifícia Universidade Católica de São Paulo",
+                state: "São Paulo",
+                score: 5.763332,
+                iso3166: "BR"
+            },
             {
-                "country": "Brazil", 
-                "score": 3.616078, 
-                "value": "Pontif\u00edcia Universidade Cat\u00f3lica de Campinas"
-            }, 
+                city: "Porto Alegre",
+                country: "Brazil",
+                value: "Pontifícia Universidade Católica do Rio Grande do Sul",
+                state: "Rio Grande do Sul",
+                score: 5.763332,
+                iso3166: "BR"
+            },
             {
-                "country": "Brazil", 
-                "score": 3.616078, 
-                "value": "Pontif\u00edcia Universidade Cat\u00f3lica de S\u00e3o Paulo"
-            }, 
+                city: "Santiago",
+                country: "Chile",
+                value: "Pontificia Universidad Católica de Chile",
+                state: "Santiago de Chile",
+                score: 5.685427,
+                iso3166: "CL"
+            },
             {
-                "country": "Chile", 
-                "score": 3.616078, 
-                "value": "Pontificia Universidad Cat\u00f3lica de Chile"
-            }, 
-            {
-                "country": "Venezuela", 
-                "score": 3.616078, 
-                "value": "Universidad Cat\u00f3lica Cecilio Acosta"
+                city: "Belo Horizonte",
+                country: "Brazil",
+                value: "Pontifícia Universidade Católica de Minas Gerais",
+                state: "Minas Gerais",
+                score: 4.7990766,
+                iso3166: "BR"
             }
         ]
     }
 
-``GET /api/v1/institution/?q=Católica&country=Chile``
+``GET /api/v1/institution?q=Pontifícia%20Universidade%20Católica&country=Chile``
 
 Response::
 
     {
-        "head": {
-            "match": "multiple"
-        }, 
-        "choices": [
+        head: {
+            match: "by_similarity"
+        },
+        choices: [
             {
-                "country": "Chile", 
-                "score": 8.139689, 
-                "value": "Universidad Cat\u00f3lica Silva Henr\u00edquez"
-            }, 
-            {
-                "country": "Chile", 
-                "score": 8.139689, 
-                "value": "Pontificia Universidad Cat\u00f3lica de Chile"
-            }, 
-            {
-                "country": "Chile", 
-                "score": 8.139689, 
-                "value": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
-            }, 
-            {
-                "country": "Chile", 
-                "score": 7.900635, 
-                "value": "Universidad Cat\u00f3lica del Norte"
+                city: "Santiago",
+                country: "Chile",
+                value: "Pontificia Universidad Católica de Chile",
+                state: "Santiago de Chile",
+                score: 9.483286,
+                iso3166: "CL"
             }
         ]
     }
 
 
-``GET /api/v1/institution/?q=Católica&country=Chile&callback=my_callback``
+``GET /api/v1/institution?q=Pontifícia%20Universidade%20Católica&country=Chile&callback=my_callback``
 
 Response::
 
@@ -170,26 +170,14 @@ Response::
         "head": {
             "match": "multiple"
         }, 
-        "choices": [
+        choices: [
             {
-                "country": "Chile", 
-                "score": 8.139689, 
-                "value": "Universidad Cat\u00f3lica Silva Henr\u00edquez"
-            }, 
-            {
-                "country": "Chile", 
-                "score": 8.139689, 
-                "value": "Pontificia Universidad Cat\u00f3lica de Chile"
-            }, 
-            {
-                "country": "Chile", 
-                "score": 8.139689, 
-                "value": "Pontificia Universidad Cat\u00f3lica de Valpara\u00edso"
-            }, 
-            {
-                "country": "Chile", 
-                "score": 7.900635, 
-                "value": "Universidad Cat\u00f3lica del Norte"
+                city: "Santiago",
+                country: "Chile",
+                value: "Pontificia Universidad Católica de Chile",
+                state: "Santiago de Chile",
+                score: 9.483286,
+                iso3166: "CL"
             }
         ]
     });
