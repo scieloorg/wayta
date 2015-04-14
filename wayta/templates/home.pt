@@ -98,33 +98,45 @@
                     </code>
                 </blockquote>
                 <blockquote>
-                    /api/v1/institution?q=Católica&country=Brazil
+                    /api/v1/institution?q=Pontifícia%20Universidade%20Católica&country=Brazil
                     <h5>Response</h5>
                     <code>
                         {
-                            "head": {
-                                "match": "multiple"
-                            }, 
-                            "choices": [
+                            head: {
+                                match: "multiple"
+                            },
+                            choices: [
                                 {
-                                    "country": "Brazil", 
-                                    "score": 5.4929466, 
-                                    "value": "Universidade Cat\u00f3lica de Santos"
-                                }, 
+                                    city: "Rio de Janeiro",
+                                    country: "Brazil",
+                                    value: "Pontifícia Universidade Católica do Rio de Janeiro",
+                                    state: "Rio de Janeiro",
+                                    score: 8.287096,
+                                    iso3166: "BR"
+                                },
                                 {
-                                    "country": "Brazil", 
-                                    "score": 5.4929466, 
-                                    "value": "Pontif\u00edcia Universidade Cat\u00f3lica de Campinas"
-                                }, 
+                                    city: "São Paulo",
+                                    country: "Brazil",
+                                    value: "Pontifícia Universidade Católica de São Paulo",
+                                    state: "São Paulo",
+                                    score: 5.763332,
+                                    iso3166: "BR"
+                                },
                                 {
-                                    "country": "Brazil", 
-                                    "score": 5.4929466, 
-                                    "value": "Pontif\u00edcia Universidade Cat\u00f3lica do Rio de Janeiro"
-                                }, 
+                                    city: "Porto Alegre",
+                                    country: "Brazil",
+                                    value: "Pontifícia Universidade Católica do Rio Grande do Sul",
+                                    state: "Rio Grande do Sul",
+                                    score: 5.763332,
+                                    iso3166: "BR"
+                                },
                                 {
-                                    "country": "Brazil", 
-                                    "score": 5.4929466, 
-                                    "value": "Pontif\u00edcia Universidade Cat\u00f3lica de S\u00e3o Paulo"
+                                    city: "Belo Horizonte",
+                                    country: "Brazil",
+                                    value: "Pontifícia Universidade Católica de Minas Gerais",
+                                    state: "Minas Gerais",
+                                    score: 4.7990766,
+                                    iso3166: "BR"
                                 }
                             ]
                         }
@@ -135,17 +147,17 @@
                     <h5>Response</h5>
                     <code>
                         {
-
-                            "head": {
-                                "match": "by_similarity"
+                            head: {
+                                match: "by_similarity"
                             },
-                            "choices": [
+                            choices: [
                                 {
-                                    "score": 5.61512,
-                                    "value": "Brazil"
+                                    country: "Brazil",
+                                    score: 6.1959453,
+                                    iso3166: "BR",
+                                    value: "Brazil"
                                 }
                             ]
-
                         }
                     </code>
                 </blockquote>
