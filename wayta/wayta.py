@@ -25,25 +25,30 @@ def notfound(request):
 def home(request):
     query = request.POST.get('q', None)
     index = request.POST.get('index', None)
+    accuracy = int(request.POST.get('accuracy', 1))
 
     data = {
-        'query': None,
+        'query': query,
+        'index': index,
         'alert': None,
-        'choices': []
+        'choices': [],
+        'accuracy': accuracy,
     }
+
 
     if query:
         if index == 'wayta_institutions':
-            result = request.databroker.similar_institutions(index, query)
+            result = request.databroker.similar_institutions(index, query, accuracy=accuracy)
         elif index == 'wayta_countries':
-            result = request.databroker.similar_countries(index, query)
+            result = request.databroker.similar_countries(index, query, accuracy=accuracy)
 
         data = {
             'query': query,
             'index': index,
+            'accuracy': accuracy,
             'alert': alerts.get(str(result['head']['match']), 'danger'),
             'match': str(result['head']['match']),
-            'choices': result['choices']
+            'choices': result['choices'],
         }
 
     return data
@@ -54,11 +59,17 @@ def institution(request):
 
     query = request.GET.get('q', None)
     country = request.GET.get('country', None)
+    accuracy = request.GET.get('accuracy', 1)
+
+    try:
+        accuracy = int(accuracy)
+    except:
+        raise exc.HTTPBadRequest('Parameter accuracy must be [1,2,3]')
 
     if not query:
         raise exc.HTTPBadRequest('Parameter q is mandatory')
 
-    result = request.databroker.similar_institutions('wayta_institutions', query, country)
+    result = request.databroker.similar_institutions('wayta_institutions', query, country, accuracy=accuracy)
 
     return result
 
@@ -67,11 +78,16 @@ def institution(request):
 def country(request):
 
     query = request.GET.get('q', None)
-    country = None
+    accuracy = request.GET.get('accuracy', 1)
+
+    try:
+        accuracy = int(accuracy)
+    except:
+        raise exc.HTTPBadRequest('Parameter accuracy must be [1,2,3]')
 
     if not query:
         raise exc.HTTPBadRequest('Parameter q is mandatory')
 
-    result = request.databroker.similar_countries('wayta_countries', query)
+    result = request.databroker.similar_countries('wayta_countries', query, accuracy=accuracy)
 
     return result

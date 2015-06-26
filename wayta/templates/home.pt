@@ -12,11 +12,22 @@
                 <h6>what are you talking about?</h6>
                 <form class="form-inline" role="form" method="POST">
                     <div class="form-group">
-                        <label class="sr-only" for="q">institution</label>
-                        <input type="text" name="q" class="form-control" size="100" id="q" placeholder="Write something here"/>
+                        <label for="q">query</label>
+                        <input type="text" name="q" class="form-control" size="70" id="q" placeholder="Write something here" value="${query}"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="accuracy">accuracy</label>
+                        <select name="accuracy" class="form-control" id="accuracy">
+                            <option value="1" tal:attributes="selected 'True' if accuracy==1 else None">high</option>
+                            <option value="2" tal:attributes="selected 'True' if accuracy==2 else None">medium</option>
+                            <option value="3" tal:attributes="selected 'True' if accuracy==3 else None">low</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="index">source</label>
                         <select name="index" class="form-control" id="index">
-                            <option value="wayta_institutions" selected="True">Institutions</option>
-                            <option value="wayta_countries">Countries</option>
+                            <option value="wayta_institutions" tal:attributes="selected 'True' if index=='wayta_institutions' else None">Institutions</option>
+                            <option value="wayta_countries" tal:attributes="selected 'True' if index=='wayta_countries' else None">Countries</option>
                         </select>
                     </div>
                   <button type="submit" class="btn btn-default">go</button>

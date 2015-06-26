@@ -5,6 +5,7 @@ INDEXES_DOC_TYPE = {
     'wayta_countries': 'country',
 }
 
+ACCURACY = [1, 10, 50, 100]
 
 class DataBroker(object):
 
@@ -98,7 +99,14 @@ class DataBroker(object):
         # Loading just the high scored choice
         choices = {}
         for hit in data['hits']['hits']:
-            choices.setdefault(hit['_source']['name'], {
+            key = '_'.join([
+                hit['_source']['name'],
+                hit['_source']['country'],
+                hit['_source']['state'],
+                hit['_source']['city']
+            ])
+            choices.setdefault(key, {
+                'name': hit['_source'].get('name', ''),
                 'country': hit['_source'].get('country', ''),
                 'state': hit['_source'].get('state', ''),
                 'city': hit['_source'].get('city', ''),
@@ -109,7 +117,7 @@ class DataBroker(object):
         best_choices = []
         for choice, values in choices.items():
             best_choice = {
-                'value': choice,
+                'value': values['name'],
                 'country': values['country'],
                 'state': values['state'],
                 'city': values['city'],
@@ -130,7 +138,9 @@ class DataBroker(object):
 
         return response
 
-    def similar_countries(self, index, q):
+    def similar_countries(self, index, q, accuracy=1):
+
+        accuracy = 1 if accuracy > 3 else accuracy
 
         if not index in INDEXES_DOC_TYPE:
             raise TypeError('Invalid index name: %s' % index)
@@ -156,14 +166,18 @@ class DataBroker(object):
             self.es.search(
                 index=index,
                 doc_type=INDEXES_DOC_TYPE[index],
-                body=qbody
+                body=qbody,
+                size=ACCURACY[accuracy]
             ),
             q
         )
 
         return parsed_data
 
-    def similar_institutions(self, index, q, country=None):
+    def similar_institutions(self, index, q, country=None, accuracy=1):
+
+        accuracy = 1 if accuracy > 3 else accuracy
+
 
         if not index in INDEXES_DOC_TYPE:
             raise TypeError('Invalid index name: %s' % index)
@@ -210,7 +224,8 @@ class DataBroker(object):
             self.es.search(
                 index=index,
                 doc_type=INDEXES_DOC_TYPE[index],
-                body=qbody
+                body=qbody,
+                size=ACCURACY[accuracy]
             ),
             q
         )

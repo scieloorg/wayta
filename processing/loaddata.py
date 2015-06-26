@@ -19,28 +19,23 @@ def institutions(tabfile='normalized_aff.csv'):
             "institution": {
                 "properties": {
                    "city": {
-                      "type": "string",
-                      "index": "not_analyzed"
+                      "type": "string"
                    },
                    "country": {
-                      "type": "string",
-                      "index": "not_analyzed"
+                      "type": "string"
                    },
                    "form": {
-                      "type": "string",
-                      "index": "not_analyzed"
+                      "type": "string"
                    },
                    "iso-3166": {
                       "type": "string",
                       "index": "not_analyzed"
                    },
                    "name": {
-                      "type": "string",
-                      "index": "not_analyzed"
+                      "type": "string"
                    },
                    "state": {
-                      "type": "string",
-                      "index": "not_analyzed"
+                      "type": "string"
                    }
                 }
             }
@@ -74,16 +69,14 @@ def countries(tabfile='normalized_country.csv'):
             "country": {
                 "properties": {
                     "form": {
-                        "type": "string",
-                        "index": "not_analyzed"
+                        "type": "string"
                    },
                     "iso-3166": {
                         "type": "string",
                         "index": "not_analyzed"
                    },
                     "name": {
-                        "type": "string",
-                        "index": "not_analyzed"
+                        "type": "string"
                    }           
                 }
             }
