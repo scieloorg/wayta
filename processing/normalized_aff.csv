@@ -1,4 +1,4 @@
-"""Facultad de Ciencias Medicas """"Dr. Salvador Allende""""""";"Facultad de Ciencias Médicas ""Dr. Salvador Allende""";Cuba;CU;;
+﻿"""Facultad de Ciencias Medicas """"Dr. Salvador Allende""""""";"Facultad de Ciencias Médicas ""Dr. Salvador Allende""";Cuba;CU;;
 Facultad de Ciencias Médicas Salvador Allende;"Facultad de Ciencias Médicas ""Dr. Salvador Allende""";Cuba;CU;;
 """Facultad de Ciencias Médicas """"Dr. Salvador Allende""""""";"Facultad de Ciencias Médicas ""Dr. Salvador Allende""";Cuba;CU;;
 Hospital General de Tlalnepantla;"Hospital General De Tlalnepantla ""Valle Ceylan""";Mexico;MX;;
@@ -281,7 +281,7 @@ Instituto Nacional de Producción de Biológicos (ANLIS), Dr. Carlos G. Malbrán
 Instituto Nacional de Producción de Biológicos ANLIS;Administración Nacional de Laboratorios e Institutos de Salud (ANLIS) “Dr. Carlos G. Malbrán”;Argentina;AR;;
 Instituto Nacional de Producción de Biológicos Carlos G. Malbran (ANLIS);Administración Nacional de Laboratorios e Institutos de Salud (ANLIS) “Dr. Carlos G. Malbrán”;Argentina;AR;;
 Administración Nacional de Laboratorios e Institutos de Salud (ANLIS) “Dr. Carlos G. Malbrán”;Administración Nacional de Laboratorios e Institutos de Salud (ANLIS) “Dr. Carlos G. Malbrán”;Argentina;AR;;
-Administración Nacional de Laboratorios e Institutos de Salud Dr. Carlos G. Malbrán;Administración Nacional de Laboratorios e Institutos de Salud Dr. Carlos G. Malbrán;Argentina;AR;Buenos Aires;Buenos Aires
+Administración Nacional de Laboratorios e Institutos de Salud Dr. Carlos G. Malbrán”;Administración Nacional de Laboratorios e Institutos de Salud Dr. Carlos G. Malbrán”;Argentina;AR;Buenos Aires;Buenos Aires
 Administracion Nacional de Medicamentos, Alimentos y Tecnologia Medica;Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Argentina;AR;Buenos Aires;Buenos Aires
 Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Argentina;AR;Buenos Aires;Buenos Aires
 Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT);Administración Nacional de Medicamentos, Alimentos y Tecnología Médica;Argentina;AR;Buenos Aires;Buenos Aires
@@ -993,8 +993,8 @@ AS Media Centro de Formación Profesional;AS Media Centro de Formación Profesio
 ASA Institute of Business and Computer Technology;ASA Institute of Business and Computer Technology;USA;US;New York;Brooklyn
 Asa University Bangladesh;Asa University Bangladesh;Bangladesh;BD;Dhaka Division;Dhaka
 Asahi University;Asahi University;Japan;JP;Chubu;Gifu
-Asahikawa Medical University;Asahikawa Medical University;Japan;JP;Hokkaidō;Hokkaidō
-Asahikawa University;Asahikawa University;Japan;JP;Hokkaidō;Hokkaidō
+Asahikawa Medical University;Asahikawa Medical University;Japan;JP;Hokkaid?;Hokkaid?
+Asahikawa University;Asahikawa University;Japan;JP;Hokkaid?;Hokkaid?
 Asbury Methodist Village;Asbury Methodist Village;USA;US;Maryland;Gaithersburg
 Asbury Theological Seminary;Asbury Theological Seminary;USA;US;Kentucky;Wilmore
 Asbury University;Asbury University;USA;US;Kentucky;Wilmore
@@ -1008,8 +1008,8 @@ Asheville VA Medical Center;Asheville VA Medical Center;USA;US;North Carolina;As
 Ashford University;Ashford University;USA;US;California;San Diego
 Ashikaga Institute of Technology;Ashikaga Institute of Technology;Japan;JP;Kanto;Tochigi
 Ashikaga Junior College;Ashikaga Junior College;Japan;JP;Kanto;Tochigi
-Ashiya University;Ashiya University;Japan;JP;Kansai;Hyōgo
-Ashiya Women's College;Ashiya Women's College;Japan;JP;Kansai;Hyōgo
+Ashiya University;Ashiya University;Japan;JP;Kansai;Hy?go
+Ashiya Women's College;Ashiya Women's College;Japan;JP;Kansai;Hy?go
 Ashland Community and Technical College;Ashland Community and Technical College;USA;US;Kentucky;Ashland
 Ashland County;Ashland County;USA;US;Ohio;Ashland
 Ashland Theological Seminary;Ashland Theological Seminary;USA;US;Ohio;Ashland
@@ -1442,9 +1442,9 @@ Bennington College;Bennington College;USA;US;Vermont;Bennington
 Benson Idahosa University;Benson Idahosa University;Nigeria;NG;Edo;Benin City
 Bentley University;Bentley University;USA;US;Massachusetts;Waltham
 Benue State University;Benue State University;Nigeria;NG;Benue;Makurdi
-Beppu Mizobe Gakuen College;Beppu Mizobe Gakuen College;Japan;JP;Kyushu;Ōita
-Beppu University;Beppu University;Japan;JP;Kyushu;Ōita
-Beppu University Junior College;Beppu University Junior College;Japan;JP;Kyushu;Ōita
+Beppu Mizobe Gakuen College;Beppu Mizobe Gakuen College;Japan;JP;Kyushu;?ita
+Beppu University;Beppu University;Japan;JP;Kyushu;?ita
+Beppu University Junior College;Beppu University Junior College;Japan;JP;Kyushu;?ita
 Berdan Institute;Berdan Institute;USA;US;New Jersey;Wayne
 Berea Children's Home and Family Services;Berea Children's Home and Family Services;USA;US;Ohio;Berea
 Berea College;Berea College;USA;US;Kentucky;Berea
@@ -3133,7 +3133,7 @@ Chipola College;Chipola College;USA;US;Florida;Marianna
 Chippewa Valley Technical College;Chippewa Valley Technical College;USA;US;Wisconsin;Eau Claire
 Chisholm Trail Technology Center;Chisholm Trail Technology Center;USA;US;Oklahoma;Omega
 Chitkara University;Chitkara University;India;IN;Himachal Pradesh;Solan
-Chitose Institute of Science & Technology;Chitose Institute of Science & Technology;Japan;JP;Hokkaidō;Hokkaidō
+Chitose Institute of Science & Technology;Chitose Institute of Science & Technology;Japan;JP;Hokkaid?;Hokkaid?
 Chittagong University of Engineering and Technology;Chittagong University of Engineering and Technology;Bangladesh;BD;Chittagong Division;Chattagam
 Chofu Gakuen Junior College;Chofu Gakuen Junior College;Japan;JP;Kanto;Kanagawa
 Choice High School and Technical Center;Choice High School and Technical Center;USA;US;Florida;Fort Walton Beach
@@ -3159,7 +3159,7 @@ Christopher Academy;Christopher Academy;USA;US;New Jersey;Scotch Plains
 Christopher Newport University;Christopher Newport University;USA;US;Virginia;Newport News
 CHRISTUS SPOHN Hospital Corpus Christi;CHRISTUS SPOHN Hospital Corpus Christi;USA;US;Texas;Corpus Christi
 Chubu Gakuin University;Chubu Gakuin University;Japan;JP;Chubu;Gifu
-Chūbu University;Chūbu University;Japan;JP;Chubu;Aichi
+Ch?bu University;Ch?bu University;Japan;JP;Chubu;Aichi
 Chugoku Gakuen University;Chugoku Gakuen University;Japan;JP;Chugoku;Okayama
 Chukyo Gakuin University;Chukyo Gakuin University;Japan;JP;Chubu;Gifu
 Chukyo Junior College;Chukyo Junior College;Japan;JP;Chubu;Gifu
@@ -3169,7 +3169,7 @@ Chuncheon National University of Education;Chuncheon National University of Educ
 Chungbuk National University;Chungbuk National University;South Korea;KR;North Chungcheong;Cheongju
 Chungnam National University;Chungnam National University;South Korea;KR;Chungnam;Daejeon
 Chuo University;Chuo University;Japan;JP;Kanto;Tokyo
-Chūōgakuin University;Chūōgakuin University;Japan;JP;Kanto;Chiba
+Ch??gakuin University;Ch??gakuin University;Japan;JP;Kanto;Chiba
 Church Divinity School of the Pacific;Church Divinity School of the Pacific;USA;US;California;Berkeley
 Cincinnati Bible Seminary of Cincinnati Christian University;Cincinnati Bible Seminary of Cincinnati Christian University;USA;US;Ohio;Cincinnati
 Cincinnati Children's Hospital Medical Center;Cincinnati Children's Hospital Medical Center;USA;US;Ohio;Cincinnati
@@ -3460,7 +3460,7 @@ College of Marin;College of Marin;USA;US;California;Kentfield
 College of Menominee Nation;College of Menominee Nation;USA;US;Wisconsin;Keshena
 College of Mount Saint Vincent;College of Mount Saint Vincent;USA;US;New York;Bronx
 College of Nursing and Allied Health Scinces;College of Nursing and Allied Health Scinces;Saudi Arabia;SA;Riyadh;Riyadh
-College of Nursing Art and Science;College of Nursing Art and Science;Japan;JP;Kansai;Hyōgo
+College of Nursing Art and Science;College of Nursing Art and Science;Japan;JP;Kansai;Hy?go
 College of Our Lady of the Elms;College of Our Lady of the Elms;USA;US;Massachusetts;Chicopee
 College of Saint Benedict;College of Saint Benedict;USA;US;Minnesota;Saint Joseph
 College of Saint Elizabeth;College of Saint Elizabeth;USA;US;New Jersey;Morristown
@@ -4129,7 +4129,7 @@ Dorothea Hopfer School of Nursing;Dorothea Hopfer School of Nursing;USA;US;New Y
 Dorsey School of Business;Dorsey School of Business;USA;US;Michigan;Southgate
 Doshisha University;Doshisha University;Japan;JP;Kansai;Kyoto
 Doshisha Women's College of Liberal Arts;Doshisha Women's College of Liberal Arts;Japan;JP;Kansai;Kyoto
-Doto University Junior College;Doto University Junior College;Japan;JP;Hokkaidō;Hokkaidō
+Doto University Junior College;Doto University Junior College;Japan;JP;Hokkaid?;Hokkaid?
 Douglas Education Center;Douglas Education Center;USA;US;Pennsylvania;Monessen
 Douglas J Aveda Institute;Douglas J Aveda Institute;USA;US;Michigan;East Lansing
 Douglas J Aveda Institute Chicago;Douglas J Aveda Institute Chicago;USA;US;Illnois;Chicago
@@ -4974,7 +4974,7 @@ Empresa de Producción de Bilógicos Carlos J Finlay;Empresa de Producción de B
 Endicott College;Endicott College;USA;US;Massachusetts;Beverly
 Engineering College of Aarhus;Engineering College of Aarhus;Denmark;DK;Central Denmark;Arhus
 Engineering College of Copenhagen;Engineering College of Copenhagen;Denmark;DK;Hovedstaden;Copenhagen
-Engineering Faculty of Hokkaido University;Engineering Faculty of Hokkaido University;Japan;JP;Hokkaidō;Hokkaidō
+Engineering Faculty of Hokkaido University;Engineering Faculty of Hokkaido University;Japan;JP;Hokkaid?;Hokkaid?
 Englewood Hospital & Medical Center;Englewood Hospital & Medical Center;USA;US;New Jersey;Englewood
 English And Foreign Languages University;English And Foreign Languages University;India;IN;Andhra Pradesh;Hyderabad
 English for Internationals, Inc.;English for Internationals, Inc.;USA;US;Georgia;Roswell
@@ -5030,8 +5030,8 @@ ESADE Law & Business School;ESADE Law & Business School;Spain;ES;Cataluña;Barce
 Escola Agrotécnica Federal de Alegre;Escola Agrotécnica Federal de Alegre;Brazil;BR;Espírito Santo;Alegrete
 Escola Agrotecnica Federal de Rio do Sul;Escola Agrotécnica Federal de Rio do Sul;Brazil;BR;;
 Escola Agrotécnica. Federal de Rio do Sul;Escola Agrotécnica Federal de Rio do Sul;Brazil;BR;;
-Escola Agrotécnica Federal de Santa Inês;Escola Agrotecnica Federal de Santa Ines;Brazil;BR;;
-Escola Agrotecnica Federal de Santa Ines;Escola Agrotecnica Federal de Santa Ines;Brazil;BR;;
+Escola Agrotécnica Federal de Santa Inês;Escola Agrotécnica Federal de Santa Inês;Brazil;BR;;
+Escola Agrotecnica Federal de Santa Ines;Escola Agrotécnica Federal de Santa Inês;Brazil;BR;;
 Escola Agrotécnica Federal de São José Operário;Escola Agrotécnica Federal de São José Operário;Brazil;BR;Amazonas;São José Operário
 Escola Bahiana de Medicina e Saúde Pública;Escola Bahiana de Medicina e Saúde Pública;Brazil;BR;Bahia;Salvador
 Escola da Cidade;Escola da Cidade;Brazil;BR;São Paulo;São Paulo
@@ -5524,6 +5524,7 @@ Excela Health School of Anesthesia;Excela Health School of Anesthesia;USA;US;Pen
 Excelsior College;Excelsior College;USA;US;New York;Albany
 Centro Tecnológico do Exército;Exército Brasileiro;Brazil;BR;;
 Exercito Brasileiro;Exército Brasileiro;Brazil;BR;;
+Exercito;Exército Brasileiro;Brazil;BR;;
 Exército Brasileiro;Exército Brasileiro;Brazil;BR;;
 Eye Center of Texas Residency in Ocular Disease and Refractive and Ocular Surgery;Eye Center of Texas Residency in Ocular Disease and Refractive and Ocular Surgery;USA;US;Texas;Bellaire
 Eye Center of Toledo Residency in Ocular Disease;Eye Center of Toledo Residency in Ocular Disease;USA;US;Ohio;Toledo
@@ -5823,7 +5824,8 @@ Faculdade de Ciências e Educação de Rubiataba;Faculdade de Ciências e Educa�
 Faculdade de Ciências e Educação Sena Aires;Faculdade de Ciências e Educação Sena Aires;Brazil;BR;Goiás;Valparaíso de Goiás
 Faculdade de Ciências e Letras de Bragança Paulista;Faculdade de Ciências e Letras de Bragança Paulista;Brazil;BR;São Paulo;Bragança Paulista
 Faculdade de Ciências e Tecnologia de Campos Gerais;Faculdade de Ciências e Tecnologia de Campos Gerais;Brazil;BR;Minas Gerais;Campos Gerais
-Faculdade de Ciências e Tecnología de Tereseina;Faculdade de Ciências e Tecnología de Tereseina;Brazil;BR;Piauí;Teresina
+Faculdade de Ciências e Tecnologia de Teresina;Faculdade de Ciências e Tecnologia de Teresina;Brazil;BR;Piauí;Teresina
+Faculdade de Ciências e Tecnología de Tereseina;Faculdade de Ciências e Tecnologia de Teresina;Brazil;BR;Piauí;Teresina
 Faculdade de Ciências e Tecnologia de Unaí;Faculdade de Ciências e Tecnologia de Unaí;Brazil;BR;Minas Gerais;Unaí
 Faculdade de Ciências e Tecnologia Mater Christi;Faculdade de Ciências e Tecnologia Mater Christi;Brazil;BR;Rio Grande do Norte;Mossoró
 Faculdade de Ciências da Saúde de Campos Gerais;Faculdade de Ciências e Tecnologias de Campos Gerais;Brazil;BR;;
@@ -7062,8 +7064,8 @@ Frostburg State University;Frostburg State University;USA;US;Maryland;Frostburg
 Fryske Akademy;Fryske Akademy;Netherlands;NL;;
 Fudan University;Fudan University;China;CN;Shanghai;Yangpu District
 Fuji Tokoha University;Fuji Tokoha University;Japan;JP;Chubu;Shizuoka
-Fuji University;Fuji University;Japan;JP;Tōhoku;Iwate
-Fuji Women's Junior College;Fuji Women's Junior College;Japan;JP;Hokkaidō;Hokkaidō
+Fuji University;Fuji University;Japan;JP;T?hoku;Iwate
+Fuji Women's Junior College;Fuji Women's Junior College;Japan;JP;Hokkaid?;Hokkaid?
 Fujita Health University;Fujita Health University;Japan;JP;Chubu;Aichi
 Fujita Health University College;Fujita Health University College;Japan;JP;Chubu;Aichi
 Fukui Prefectural University;Fukui Prefectural University;Japan;JP;Chubu;Fukui
@@ -7080,9 +7082,9 @@ Fukuoka University;Fukuoka University;Japan;JP;Kyushu;Fukuoka
 Fukuoka University of Economics;Fukuoka University of Economics;Japan;JP;Kyushu;Fukuoka
 Fukuoka Women's Junior College;Fukuoka Women's Junior College;Japan;JP;Kyushu;Fukuoka
 Fukuoka Women's University;Fukuoka Women's University;Japan;JP;Kyushu;Fukuoka
-Fukushima College;Fukushima College;Japan;JP;Tōhoku;Fukushima
-Fukushima Medical University;Fukushima Medical University;Japan;JP;Tōhoku;Fukushima
-Fukushima University;Fukushima University;Japan;JP;Tōhoku;Fukushima
+Fukushima College;Fukushima College;Japan;JP;T?hoku;Fukushima
+Fukushima Medical University;Fukushima Medical University;Japan;JP;T?hoku;Fukushima
+Fukushima University;Fukushima University;Japan;JP;T?hoku;Fukushima
 Fukuyama City Junior College for Women;Fukuyama City Junior College for Women;Japan;JP;Chugoku;Hiroshima
 Fukuyama City University;Fukuyama City University;Japan;JP;Chugoku;Hiroshima
 Fukuyama Heisei University;Fukuyama Heisei University;Japan;JP;Chugoku;Hiroshima
@@ -7585,7 +7587,7 @@ Furman University;Furman University;USA;US;South Carolina;Greenville
 Future Academy;Future Academy;Egypt;EG;Cairo;Cairo
 Future Generations Graduate School;Future Generations Graduate School;USA;US;West Virginia;Franklin
 Future Tech Institute;Future Tech Institute;USA;US;Florida;Miami
-Future University Hakodate;Future University Hakodate;Japan;JP;Hokkaidō;Hokkaidō
+Future University Hakodate;Future University Hakodate;Japan;JP;Hokkaid?;Hokkaid?
 Future University in Egypt;Future University in Egypt;Egypt;EG;Cairo;Cairo
 Fuzhou University;Fuzhou University;China;CN;Fujian;Fuzhou
 FVC Ensino Superior;FVC Ensino Superior;Brazil;BR;Mato Grosso;Cuiabá
@@ -7908,7 +7910,7 @@ Hajee Mohammad Danesh Science & Technology University;Hajee Mohammad Danesh Scie
 Hajvery University;Hajvery University;Pakistan;PK;Punjab;Lahore
 Hakiman Institute of Human Science;Hakiman Institute of Human Science;Iran;IR;North Khorasan;Hakiman
 Hakkari University;Hakkari University;Turkey;TR;;Hakkâri
-Hakodate Otani College;Hakodate Otani College;Japan;JP;Hokkaidō;Hokkaidō
+Hakodate Otani College;Hakodate Otani College;Japan;JP;Hokkaid?;Hokkaid?
 Hakuho Women's College;Hakuho Women's College;Japan;JP;Kansai;Nara
 Hakuoh University;Hakuoh University;Japan;JP;Kanto;Tochigi
 Haliç University;Haliç University;Turkey;TR;;Istanbul
@@ -8123,10 +8125,10 @@ Hibbing Community College;Hibbing Community College;USA;US;Minnesota;Hibbing
 Hickey College;Hickey College;USA;US;Missouri;Saint Louis
 Hidayatullah National Law University;Hidayatullah National Law University;India;IN;Chhattisgarh;Raipur
 Higashi Chikushi Junior College;Higashi Chikushi Junior College;Japan;JP;Kyushu;Fukuoka
-Higashi Nippon International University;Higashi Nippon International University;Japan;JP;Tōhoku;Fukushima
+Higashi Nippon International University;Higashi Nippon International University;Japan;JP;T?hoku;Fukushima
 Higashi Osaka College;Higashi Osaka College;Japan;JP;Kansai;Osaka
 Higashi Osaka Junior College;Higashi Osaka Junior College;Japan;JP;Kansai;Osaka
-Higashikyushu Junior College;Higashikyushu Junior College;Japan;JP;Kyushu;Ōita
+Higashikyushu Junior College;Higashikyushu Junior College;Japan;JP;Kyushu;?ita
 High Desert Medical College;High Desert Medical College;USA;US;California;Lancaster
 High Plains Technology Center;High Plains Technology Center;USA;US;Oklahoma;Woodward
 High Point University;High Point University;USA;US;North Carolina;High Point
@@ -8146,9 +8148,9 @@ Hillsdale College;Hillsdale College;USA;US;Michigan;Hillsdale
 Hillsdale Free Will Baptist College;Hillsdale Free Will Baptist College;USA;US;Oklahoma;Moore
 Hillyard Technical Center;Hillyard Technical Center;USA;US;Missouri;Saint Joseph
 Himachal Pradesh University;Himachal Pradesh University;India;IN;Himachal Pradesh;Shimla
-Himeji Dokkyo University;Himeji Dokkyo University;Japan;JP;Kansai;Hyōgo
-Himeji Hinomoto College;Himeji Hinomoto College;Japan;JP;Kansai;Hyōgo
-Himeji Institute of Technology;Himeji Institute of Technology;Japan;JP;Kansai;Hyōgo
+Himeji Dokkyo University;Himeji Dokkyo University;Japan;JP;Kansai;Hy?go
+Himeji Hinomoto College;Himeji Hinomoto College;Japan;JP;Kansai;Hy?go
+Himeji Institute of Technology;Himeji Institute of Technology;Japan;JP;Kansai;Hy?go
 Hinds Community College;Hinds Community College;USA;US;Mississippi;Raymond
 Hindustan University;Hindustan University;India;IN;Tamil Nadu;Chennai
 Hines VA Hospital;Hines VA Hospital;USA;US;Illnois;Hines
@@ -8340,18 +8342,18 @@ Högskolan på Gotland;Högskolan på Gotland;Sweden;SE;Gotland;Visby
 Högskolan Väst;Högskolan Väst;Sweden;SE;Västergötland;Trollhättan
 Hohai University;Hohai University;China;CN;Jiangsu;Gulou
 Hohokus School of Trade and Technical Sciences;Hohokus School of Trade and Technical Sciences;USA;US;New Jersey;Paterson
-Hokkai Gakuen University;Hokkai Gakuen University;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido Automotive Engineering College;Hokkaido Automotive Engineering College;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido Bunkyo University;Hokkaido Bunkyo University;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido College;Hokkaido College;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido College of Pharmacy;Hokkaido College of Pharmacy;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido Information University;Hokkaido Information University;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido Institute of Technology;Hokkaido Institute of Technology;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido Musashi Women's Junior College;Hokkaido Musashi Women's Junior College;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido University;Hokkaido University;Japan;JP;Hokkaidō;Hokkaidō
-Hokkaido University of Education;Hokkaido University of Education;Japan;JP;Hokkaidō;Hokkaidō
+Hokkai Gakuen University;Hokkai Gakuen University;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido Automotive Engineering College;Hokkaido Automotive Engineering College;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido Bunkyo University;Hokkaido Bunkyo University;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido College;Hokkaido College;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido College of Pharmacy;Hokkaido College of Pharmacy;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido Information University;Hokkaido Information University;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido Institute of Technology;Hokkaido Institute of Technology;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido Musashi Women's Junior College;Hokkaido Musashi Women's Junior College;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido University;Hokkaido University;Japan;JP;Hokkaid?;Hokkaid?
+Hokkaido University of Education;Hokkaido University of Education;Japan;JP;Hokkaid?;Hokkaid?
 Hokuriku University;Hokuriku University;Japan;JP;Chubu;Ishikawa
-Hokusei Gakuen University;Hokusei Gakuen University;Japan;JP;Hokkaidō;Hokkaidō
+Hokusei Gakuen University;Hokusei Gakuen University;Japan;JP;Hokkaid?;Hokkaid?
 Hollins University;Hollins University;USA;US;Virginia;Roanoke
 Hollywood College;Hollywood College;USA;US;California;Los Angeles
 Holmes Community College;Holmes Community College;USA;US;Mississippi;Goodman
@@ -8770,9 +8772,9 @@ Husson University;Husson University;USA;US;Maine;Bangor
 Hutchings Psychiatric Center;Hutchings Psychiatric Center;USA;US;New York;Syracuse
 Hutchinson Community College;Hutchinson Community College;USA;US;Kansas;Hutchinson
 HVAC Technical Institute;HVAC Technical Institute;USA;US;Illnois;Chicago
-Hyogo College of Medicine;Hyogo College of Medicine;Japan;JP;Kansai;Hyōgo
-Hyogo University;Hyogo University;Japan;JP;Kansai;Hyōgo
-Hyogo University of Teacher Education;Hyogo University of Teacher Education;Japan;JP;Kansai;Hyōgo
+Hyogo College of Medicine;Hyogo College of Medicine;Japan;JP;Kansai;Hy?go
+Hyogo University;Hyogo University;Japan;JP;Kansai;Hy?go
+Hyogo University of Teacher Education;Hyogo University of Teacher Education;Japan;JP;Kansai;Hy?go
 HyperLearning Technologies;HyperLearning Technologies;USA;US;Virginia;Virginia Beach
 Hypnosis Motivation Institute;Hypnosis Motivation Institute;USA;US;California;Tarzana
 I Ola Lahui;I Ola Lahui;USA;US;Hawaii;Honolulu
@@ -9624,44 +9626,44 @@ Alagoas Federal Institute of Education;Instituto Federal de Alagoas;Brazil;BR;;
 Centro Federal de Educação Tecnológica do Estado de Alagoas;Instituto Federal de Alagoas;Brazil;BR;;
 Instituto Federal de Alagoas;Instituto Federal de Alagoas;Brazil;BR;;
 Instituto Federal de Educação, Ciência e Tecnologia de Alagoas;Instituto Federal de Alagoas;Brazil;BR;;
-Centro Federal de Educação Federal do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Centro Federal de Educação Tecnológica do Maranhã;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Centro Federal de Educação Tecnológica do Maranhão São Luis;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Federal Institute of Maranhão (IFMA);Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Instituto Federal de Educacao Ciência e Tecnologia do Maranhao;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Instituto Federal de Educação Tecnológica do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Instituto Federal de Educação, Ciência e Tecnológica do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-IVInstituto Federal de Educação, Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Maranhão Federal Center for Technological Education;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Açailândia
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Bacabal
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Barreirinhas
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Buriticupu
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Caxias
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Codó
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Imperatriz
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Pinheiro
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Santa Inês
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;São João dos Patos
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;São Luís
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;São Raimundo das Mangabeiras
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Timon
-Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Zé Doca
-INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO CEARA;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal de Educacao Ciências e Tecnologia do Ceara;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal de Educação Ciências e Tecnologia do Ceará;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal de Educação do Ceará;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal de Educação, Ciência e Tecnologia do Ceará;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal de Educação, Ciência e Tecnologia do estado do Ceará;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal de Educación Ciencia y Tecnología de Ceará (IFCE);Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal de Educación, Ciencia y Tecnología de Ceará;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal do Ceara;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal do Ceará;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Instituto Federal do Ceará (IFCE);Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
-Professora do Centro Federal de Educação Tecnológica do Ceará;Instituto Federal de Educação Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Centro Federal de Educação Federal do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Centro Federal de Educação Tecnológica do Maranhã;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Centro Federal de Educação Tecnológica do Maranhão São Luis;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Federal Institute of Maranhão (IFMA);Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Instituto Federal de Educacao Ciência e Tecnologia do Maranhao;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Instituto Federal de Educação Tecnológica do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Instituto Federal de Educação, Ciência e Tecnológica do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+IVInstituto Federal de Educação, Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Maranhão Federal Center for Technological Education;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Alcântara
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Açailândia
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Bacabal
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Barreirinhas
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Buriticupu
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Caxias
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Codó
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Imperatriz
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Pinheiro
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Santa Inês
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;São João dos Patos
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;São Luís
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;São Raimundo das Mangabeiras
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Timon
+Instituto Federal de Educação Ciência e Tecnologia do Maranhão;Instituto Federal de Educação, Ciência e Tecnologia do Maranhão;Brazil;BR;Maranhão;Zé Doca
+INSTITUTO FEDERAL DE EDUCACAO CIENCIA E TECNOLOGIA DO CEARA;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal de Educacao Ciências e Tecnologia do Ceara;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal de Educação Ciências e Tecnologia do Ceará;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal de Educação do Ceará;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal de Educação, Ciência e Tecnologia do Ceará;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal de Educação, Ciência e Tecnologia do estado do Ceará;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal de Educación Ciencia y Tecnología de Ceará (IFCE);Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal de Educación, Ciencia y Tecnología de Ceará;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal do Ceara;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal do Ceará;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Instituto Federal do Ceará (IFCE);Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
+Professora do Centro Federal de Educação Tecnológica do Ceará;Instituto Federal de Educação, Ciências e Tecnologia do Ceará;Brazil;BR;Ceará;Fortaleza
 Instituto Federal de Educação, Ciência e Tecnologia  do Rio Grande do Sul;Instituto Federal de Educação, Ciência e Tecnologia  do Rio Grande do Sul;Brazil;BR;Rio Grande do Sul;Bento Gonçalves
 Instituto Federal de Educação, Ciência e Tecnologia Baiano;Instituto Federal de Educação, Ciência e Tecnologia Baiano;Brazil;BR;Bahia;Salvador
 Centro Federal da Educação Tecnológica da Bahia;Instituto Federal de Educação, Ciência e Tecnologia da Bahia;Brazil;BR;Bahia;Salvador
@@ -11054,7 +11056,7 @@ Isfahan University of Medical Sciences;Isfahan University of Medical Sciences;Ir
 Isfahan University of Social Welfare and Rehabilitation Sciences;Isfahan University of Social Welfare and Rehabilitation Sciences;Iran;IR;Isfahan;
 Isfahan University of Technology;Isfahan University of Technology;Iran;IR;Isfahan;
 Ishikawa Prefectural Nursing University;Ishikawa Prefectural Nursing University;Japan;JP;Chubu;Ishikawa
-Ishinomaki Senshu University;Ishinomaki Senshu University;Japan;JP;Tōhoku;Miyagi
+Ishinomaki Senshu University;Ishinomaki Senshu University;Japan;JP;T?hoku;Miyagi
 Isik University;Isik University;Turkey;TR;;Istanbul
 isits AG International School of IT Security;isits AG International School of IT Security;Germany;DE;Nordrhein-Westfalen;Bochum
 Islamia University;Islamia University;Pakistan;PK;Punjab;Bahawalpur
@@ -11106,13 +11108,13 @@ Ivory Dental Technology College;Ivory Dental Technology College;USA;US;Californi
 Ivy Christian College;Ivy Christian College;USA;US;Virginia;Fairfax
 Ivy Tech Community College of Indiana;Ivy Tech Community College of Indiana;USA;US;Indiana;Indianapolis
 IVY TECH STATE COLLEGE;IVY TECH STATE COLLEGE;USA;US;Indiana;Kokomo
-Iwaki Junior College;Iwaki Junior College;Japan;JP;Tōhoku;Fukushima
-Iwaki Meisei University;Iwaki Meisei University;Japan;JP;Tōhoku;Fukushima
+Iwaki Junior College;Iwaki Junior College;Japan;JP;T?hoku;Fukushima
+Iwaki Meisei University;Iwaki Meisei University;Japan;JP;T?hoku;Fukushima
 Iwakuni Junior College;Iwakuni Junior College;Japan;JP;Chugoku;Yamaguchi
-Iwate College of Nursing;Iwate College of Nursing;Japan;JP;Tōhoku;Iwate
-Iwate Medical University;Iwate Medical University;Japan;JP;Tōhoku;Iwate
-Iwate Prefectural University;Iwate Prefectural University;Japan;JP;Tōhoku;Iwate
-Iwate University;Iwate University;Japan;JP;Tōhoku;Iwate
+Iwate College of Nursing;Iwate College of Nursing;Japan;JP;T?hoku;Iwate
+Iwate Medical University;Iwate Medical University;Japan;JP;T?hoku;Iwate
+Iwate Prefectural University;Iwate Prefectural University;Japan;JP;T?hoku;Iwate
+Iwate University;Iwate University;Japan;JP;T?hoku;Iwate
 Izmir Institute of Technology;Izmir Institute of Technology;Turkey;TR;;Izmir
 Izmir Katip Celebi University;Izmir Katip Celebi University;Turkey;TR;;Izmir
 Izmir University;Izmir University;Turkey;TR;;Izmir
@@ -11322,9 +11324,9 @@ Kansai College of Oriental Medicine;Kansai College of Oriental Medicine;Japan;JP
 Kansai Gaidai University (Kansai University of Foreign Languages);Kansai Gaidai University (Kansai University of Foreign Languages);Japan;JP;Kansai;Osaka
 Kansai Medical University;Kansai Medical University;Japan;JP;Kansai;Osaka
 Kansai University;Kansai University;Japan;JP;Kansai;Osaka
-Kansai University of International Studies;Kansai University of International Studies;Japan;JP;Kansai;Hyōgo
-Kansai University of Nursing and Health Sciences;Kansai University of Nursing and Health Sciences;Japan;JP;Kansai;Hyōgo
-Kansai University of Social Welfare;Kansai University of Social Welfare;Japan;JP;Kansai;Hyōgo
+Kansai University of International Studies;Kansai University of International Studies;Japan;JP;Kansai;Hy?go
+Kansai University of Nursing and Health Sciences;Kansai University of Nursing and Health Sciences;Japan;JP;Kansai;Hy?go
+Kansai University of Social Welfare;Kansai University of Social Welfare;Japan;JP;Kansai;Hy?go
 Kansai University of Welfare Sciences;Kansai University of Welfare Sciences;Japan;JP;Kansai;Osaka
 Kansai Women's College;Kansai Women's College;Japan;JP;Kansai;Osaka
 Kansas City Art Institute;Kansas City Art Institute;USA;US;Missouri;Kansas City
@@ -11480,7 +11482,7 @@ Kingswood University;Kingswood University;Canada;CA;New Brunswick;Sussex
 Kinjo Gakuin University;Kinjo Gakuin University;Japan;JP;Chubu;Aichi
 Kinjo University;Kinjo University;Japan;JP;Chubu;Aichi
 Kinki University;Kinki University;Japan;JP;Kansai;Nara
-Kinki Welfare University;Kinki Welfare University;Japan;JP;Kansai;Hyōgo
+Kinki Welfare University;Kinki Welfare University;Japan;JP;Kansai;Hy?go
 Kinnaird College for Women;Kinnaird College for Women;Pakistan;PK;Punjab;Lahore
 Kio University;Kio University;Japan;JP;Kansai;Nara
 Kirchliche Hochschule Wuppertal;Kirchliche Hochschule Wuppertal;Germany;DE;Nordrhein-Westfalen;Bielefeld
@@ -11495,7 +11497,7 @@ Kish University;Kish University;Iran;IR;Hormozgan;
 Kishwaukee College;Kishwaukee College;USA;US;Illnois;Malta
 Kitakyushu Junior College;Kitakyushu Junior College;Japan;JP;Kyushu;Fukuoka
 Kitakyushu University;Kitakyushu University;Japan;JP;Kyushu;Fukuoka
-Kitami Institute of Technology;Kitami Institute of Technology;Japan;JP;Hokkaidō;Hokkaidō
+Kitami Institute of Technology;Kitami Institute of Technology;Japan;JP;Hokkaid?;Hokkaid?
 Kitasato University;Kitasato University;Japan;JP;Kanto;Kanagawa
 Kitasato University School of Veterinary Medicine & Animal Sciences;Kitasato University School of Veterinary Medicine & Animal Sciences;Japan;JP;Tohoku;Aomori
 Klamath Community College;Klamath Community College;USA;US;Oregon;Klamath Falls
@@ -11506,39 +11508,39 @@ Knowledge International University;Knowledge International University;Saudi Arab
 Knowledge Systems Institute;Knowledge Systems Institute;USA;US;Illnois;Skokie
 Knox College;Knox College;USA;US;Illnois;Galesburg
 Knox Theological Seminary;Knox Theological Seminary;USA;US;Florida;Fort Lauderdale
-Kobe City College of Nursing;Kobe City College of Nursing;Japan;JP;Kansai;Hyōgo
-Kobe City Junior College of Nursing;Kobe City Junior College of Nursing;Japan;JP;Kansai;Hyōgo
-Kobe City University of Foreign Studies;Kobe City University of Foreign Studies;Japan;JP;Kansai;Hyōgo
-Kobe College;Kobe College;Japan;JP;Kansai;Hyōgo
-Kobe College of Liberal Arts;Kobe College of Liberal Arts;Japan;JP;Kansai;Hyōgo
-Kobe Design University;Kobe Design University;Japan;JP;Kansai;Hyōgo
-Kobe Gakuin University;Kobe Gakuin University;Japan;JP;Kansai;Hyōgo
-Kobe Gakuin Women's Junior College;Kobe Gakuin Women's Junior College;Japan;JP;Kansai;Hyōgo
-Kobe Institute of Computing;Kobe Institute of Computing;Japan;JP;Kansai;Hyōgo
-Kobe Kaisei Joshi Gakuin College;Kobe Kaisei Joshi Gakuin College;Japan;JP;Kansai;Hyōgo
-Kobe Shinwa Women's University;Kobe Shinwa Women's University;Japan;JP;Kansai;Hyōgo
-Kobe Shoin Women's University;Kobe Shoin Women's University;Japan;JP;Kansai;Hyōgo
-Kobe Tokiwa Junior College;Kobe Tokiwa Junior College;Japan;JP;Kansai;Hyōgo
-Kobe Tokiwa University;Kobe Tokiwa University;Japan;JP;Kansai;Hyōgo
-Kobe University;Kobe University;Japan;JP;Kansai;Hyōgo
-Kobe University of Fashion and Design;Kobe University of Fashion and Design;Japan;JP;Kansai;Hyōgo
-Kobe Women's Junior College;Kobe Women's Junior College;Japan;JP;Kansai;Hyōgo
-Kobe Women's Pharmacy College;Kobe Women's Pharmacy College;Japan;JP;Kansai;Hyōgo
-Kobe Women's University;Kobe Women's University;Japan;JP;Kansai;Hyōgo
-Kobe Yamate University;Kobe Yamate University;Japan;JP;Kansai;Hyōgo
+Kobe City College of Nursing;Kobe City College of Nursing;Japan;JP;Kansai;Hy?go
+Kobe City Junior College of Nursing;Kobe City Junior College of Nursing;Japan;JP;Kansai;Hy?go
+Kobe City University of Foreign Studies;Kobe City University of Foreign Studies;Japan;JP;Kansai;Hy?go
+Kobe College;Kobe College;Japan;JP;Kansai;Hy?go
+Kobe College of Liberal Arts;Kobe College of Liberal Arts;Japan;JP;Kansai;Hy?go
+Kobe Design University;Kobe Design University;Japan;JP;Kansai;Hy?go
+Kobe Gakuin University;Kobe Gakuin University;Japan;JP;Kansai;Hy?go
+Kobe Gakuin Women's Junior College;Kobe Gakuin Women's Junior College;Japan;JP;Kansai;Hy?go
+Kobe Institute of Computing;Kobe Institute of Computing;Japan;JP;Kansai;Hy?go
+Kobe Kaisei Joshi Gakuin College;Kobe Kaisei Joshi Gakuin College;Japan;JP;Kansai;Hy?go
+Kobe Shinwa Women's University;Kobe Shinwa Women's University;Japan;JP;Kansai;Hy?go
+Kobe Shoin Women's University;Kobe Shoin Women's University;Japan;JP;Kansai;Hy?go
+Kobe Tokiwa Junior College;Kobe Tokiwa Junior College;Japan;JP;Kansai;Hy?go
+Kobe Tokiwa University;Kobe Tokiwa University;Japan;JP;Kansai;Hy?go
+Kobe University;Kobe University;Japan;JP;Kansai;Hy?go
+Kobe University of Fashion and Design;Kobe University of Fashion and Design;Japan;JP;Kansai;Hy?go
+Kobe Women's Junior College;Kobe Women's Junior College;Japan;JP;Kansai;Hy?go
+Kobe Women's Pharmacy College;Kobe Women's Pharmacy College;Japan;JP;Kansai;Hy?go
+Kobe Women's University;Kobe Women's University;Japan;JP;Kansai;Hy?go
+Kobe Yamate University;Kobe Yamate University;Japan;JP;Kansai;Hy?go
 Koç University;Koç University;Turkey;TR;;Istanbul
 Kocaeli University;Kocaeli University;Turkey;TR;;Kocaeli
-Kochi Gakuen College;Kochi Gakuen College;Japan;JP;Shikoku;Kōchi
-Kochi University;Kochi University;Japan;JP;Shikoku;Kōchi
-Kochi University of Technology;Kochi University of Technology;Japan;JP;Shikoku;Kōchi
-Kochi Women's University;Kochi Women's University;Japan;JP;Shikoku;Kōchi
-Koen Gakuen Women's Junior College;Koen Gakuen Women's Junior College;Japan;JP;Hokkaidō;Hokkaidō
+Kochi Gakuen College;Kochi Gakuen College;Japan;JP;Shikoku;K?chi
+Kochi University;Kochi University;Japan;JP;Shikoku;K?chi
+Kochi University of Technology;Kochi University of Technology;Japan;JP;Shikoku;K?chi
+Kochi Women's University;Kochi Women's University;Japan;JP;Shikoku;K?chi
+Koen Gakuen Women's Junior College;Koen Gakuen Women's Junior College;Japan;JP;Hokkaid?;Hokkaid?
 Kogakkan University;Kogakkan University;Japan;JP;Kansai;Mie
 Kogakuin University;Kogakuin University;Japan;JP;Kanto;Tokyo
 Kogi State University;Kogi State University;Nigeria;NG;Kogi;Ayigba
 Kohat University of Science & Technology;Kohat University of Science & Technology;Pakistan;PK;Khyber-Pakhtunkhwa;Kohat
 Kohler Academy;Kohler Academy;USA;US;Arizona;Scottsdale
-Kokugakuin Junior College;Kokugakuin Junior College;Japan;JP;Hokkaidō;Hokkaidō
+Kokugakuin Junior College;Kokugakuin Junior College;Japan;JP;Hokkaid?;Hokkaid?
 Kokugakuin Tochigi Junior College;Kokugakuin Tochigi Junior College;Japan;JP;Kanto;Tochigi
 Kokugakuin University;Kokugakuin University;Japan;JP;Kanto;Kanagawa
 Kokusai Gakuin Saitama Junior College;Kokusai Gakuin Saitama Junior College;Japan;JP;Kanto;Saitama
@@ -11550,8 +11552,8 @@ Komatsu College;Komatsu College;Japan;JP;Chubu;Ishikawa
 Komazawa University;Komazawa University;Japan;JP;Kanto;Tokyo
 Komazawa Women's Junior College;Komazawa Women's Junior College;Japan;JP;Kanto;Tokyo
 Kona University;Kona University;USA;US;Hawaii;Kailua-Kona
-Konan University;Konan University;Japan;JP;Kansai;Hyōgo
-Konan Women's University;Konan Women's University;Japan;JP;Kansai;Hyōgo
+Konan University;Konan University;Japan;JP;Kansai;Hy?go
+Konan Women's University;Konan Women's University;Japan;JP;Kansai;Hy?go
 Kongju National University;Kongju National University;South Korea;KR;South Chungcheong;Gongju
 Konkan Agriculture University;Konkan Agriculture University;India;IN;Maharashtra;Dapoli
 Konocti College of Holistic Studies;Konocti College of Holistic Studies;USA;US;California;Kelseyville
@@ -11568,9 +11570,9 @@ Korea National University of Arts;Korea National University of Arts;South Korea;
 Korea National University of Education;Korea National University of Education;South Korea;KR;North Chungcheong;Cheongwon
 Korea National University of Transportation;Korea National University of Transportation;South Korea;KR;North Chungcheong;Chungju
 Korean National University of Cultural Heritage;Korean National University of Cultural Heritage;South Korea;KR;South Chungcheong;Buyeo
-Koriyama Women's University;Koriyama Women's University;Japan;JP;Tōhoku;Fukushima
-Koshien Junior College;Koshien Junior College;Japan;JP;Kansai;Hyōgo
-Koshien University;Koshien University;Japan;JP;Kansai;Hyōgo
+Koriyama Women's University;Koriyama Women's University;Japan;JP;T?hoku;Fukushima
+Koshien Junior College;Koshien Junior College;Japan;JP;Kansai;Hy?go
+Koshien University;Koshien University;Japan;JP;Kansai;Hy?go
 Kossuth Lajos University;Kossuth Lajos University;Hungary;HU;Northern Great Plain Region;Debrecen
 Koyasan University;Koyasan University;Japan;JP;Kansai;Wakayama
 Krirk University;Krirk University;Thailand;TH;Central Thailand;Bangkok
@@ -11600,13 +11602,13 @@ Kurume Institute of Technology;Kurume Institute of Technology;Japan;JP;Kyushu;Fu
 Kurume SHIN-AI Women's College;Kurume SHIN-AI Women's College;Japan;JP;Kyushu;Fukuoka
 Kurume University;Kurume University;Japan;JP;Kyushu;Fukuoka
 Kushabhau Thakre Patrakarita Avam Jansanchar University;Kushabhau Thakre Patrakarita Avam Jansanchar University;India;IN;Chhattisgarh;Raipur
-Kushiro Junior College;Kushiro Junior College;Japan;JP;Hokkaidō;Hokkaidō
-Kushiro Public University of Economics;Kushiro Public University of Economics;Japan;JP;Hokkaidō;Hokkaidō
+Kushiro Junior College;Kushiro Junior College;Japan;JP;Hokkaid?;Hokkaid?
+Kushiro Public University of Economics;Kushiro Public University of Economics;Japan;JP;Hokkaid?;Hokkaid?
 Kussad Institute of Court Reporting;Kussad Institute of Court Reporting;USA;US;Texas;Austin
 Kutztown University;Kutztown University;USA;US;Pennsylvania;Kutztown
 Kuvempu University;Kuvempu University;India;IN;Karnataka;Shimoga
 Kuyper College;Kuyper College;USA;US;Michigan;Grand Rapids
-Kwansei Gakuin University;Kwansei Gakuin University;Japan;JP;Kansai;Hyōgo
+Kwansei Gakuin University;Kwansei Gakuin University;Japan;JP;Kansai;Hy?go
 Kwantlen Polytechnic University;Kwantlen Polytechnic University;Canada;CA;British Columbia;Surrey
 Kwara State University;Kwara State University;Nigeria;NG;Kwara;Malete
 Kwassui Women's College;Kwassui Women's College;Japan;JP;Kyushu;Nagasaki
@@ -12032,7 +12034,7 @@ Maebashi Kyoai Gakuen College;Maebashi Kyoai Gakuen College;Japan;JP;Kanto;Gunma
 Maejo University;Maejo University;Thailand;TH;Chiang Mai;Chiang Mai
 Magadh University;Magadh University;India;IN;Bihar;Bodhgaya
 Magdalen College;Magdalen College;USA;US;New Hampshire;Warner
-Magnesita S.A.;Magnesita S.A.;Brazil;BR;;
+Magnesita S.A.;Magnesita S/A;Brazil;BR;;
 Magnesita S/A;Magnesita S/A;Brazil;BR;São Paulo;São Paulo
 Magnolia Bible College;Magnolia Bible College;USA;US;Mississippi;Kosciusko
 Mahachulalongkorn Buddhist University;Mahachulalongkorn Buddhist University;Thailand;TH;Central Thailand;Bangkok
@@ -12453,7 +12455,7 @@ Mimar Sinan University of Fine Arts;Mimar Sinan University of Fine Arts;Turkey;T
 Mimasaka College;Mimasaka College;Japan;JP;Chugoku;Okayama
 Minami Kyushu Junior College;Minami Kyushu Junior College;Japan;JP;Kyushu;Miyazaki
 Minami Kyushu University;Minami Kyushu University;Japan;JP;Kyushu;Miyazaki
-Minatogawa College;Minatogawa College;Japan;JP;Kansai;Hyōgo
+Minatogawa College;Minatogawa College;Japan;JP;Kansai;Hy?go
 Mineral Area College;Mineral Area College;USA;US;Missouri;Park Hills
 Mineral County Technical Center;Mineral County Technical Center;USA;US;West Virginia;Keyser
 Mingo Extended Learning Center;Mingo Extended Learning Center;USA;US;West Virginia;Delbarton
@@ -12548,9 +12550,9 @@ Mitchell Technical Institute;Mitchell Technical Institute;USA;US;South Dakota;Mi
 Mitchell's Hairstyling Academy;Mitchell's Hairstyling Academy;USA;US;North Carolina;Greenville
 Mito Junior College;Mito Junior College;Japan;JP;Kanto;Ibaraki
 Mittuniversitet;Mittuniversitet;Sweden;SE;Medelpad;Sundsvall
-Miyagi Gakuin Women's College;Miyagi Gakuin Women's College;Japan;JP;Tōhoku;Miyagi
-Miyagi Seishin Junior College;Miyagi Seishin Junior College;Japan;JP;Tōhoku;Miyagi
-Miyagi University of Education;Miyagi University of Education;Japan;JP;Tōhoku;Miyagi
+Miyagi Gakuin Women's College;Miyagi Gakuin Women's College;Japan;JP;T?hoku;Miyagi
+Miyagi Seishin Junior College;Miyagi Seishin Junior College;Japan;JP;T?hoku;Miyagi
+Miyagi University of Education;Miyagi University of Education;Japan;JP;T?hoku;Miyagi
 Miyazaki Gakuen Junior College;Miyazaki Gakuen Junior College;Japan;JP;Kyushu;Miyazaki
 Miyazaki International College;Miyazaki International College;Japan;JP;Kyushu;Miyazaki
 Miyazaki Municipal University;Miyazaki Municipal University;Japan;JP;Kyushu;Miyazaki
@@ -12656,7 +12658,7 @@ Moreno Valley College;Moreno Valley College;USA;US;California;Moreno Valley
 Morgan Community College;Morgan Community College;USA;US;Colorado;Fort  Morgan
 Morgan State University;Morgan State University;USA;US;Maryland;Baltimore
 Morinomiya University of Medical Sciences;Morinomiya University of Medical Sciences;Japan;JP;Kansai;Osaka
-Morioka University;Morioka University;Japan;JP;Tōhoku;Iwate
+Morioka University;Morioka University;Japan;JP;T?hoku;Iwate
 Morning Pilgrim Baptist Church;Morning Pilgrim Baptist Church;USA;US;Alabama;Montgomery
 Morningside College;Morningside College;USA;US;Iowa;Sioux City
 Morris College;Morris College;USA;US;South Carolina;Sumter
@@ -12724,7 +12726,7 @@ Mueller College;Mueller College;USA;US;California;San Diego
 Mugla Sitki Koçman University;Mugla Sitki Koçman University;Turkey;TR;;Mugla
 Muhlenberg College;Muhlenberg College;USA;US;Pennsylvania;Allentown
 Mukogawa Fort Wright Institute;Mukogawa Fort Wright Institute;USA;US;Washington;Spokane
-Mukogawa Women's University;Mukogawa Women's University;Japan;JP;Kansai;Hyōgo
+Mukogawa Women's University;Mukogawa Women's University;Japan;JP;Kansai;Hy?go
 Multimedia University;Multimedia University;Malaysia;MY;Malacca;Melaka
 Multimedia University[41];Multimedia University[41];Malaysia;MY;Selangor;Cyberjaya
 Multiversidad Mundo Real Edgar Morin;Multiversidad Mundo Real Edgar Morin;Mexico;MX;Sonora;Hermosillo
@@ -12735,7 +12737,7 @@ Mundus Institute;Mundus Institute;USA;US;Arizona;Phoenix
 Munich Business School;Munich Business School;Germany;DE;Freistaat Bayern;München
 Murat Hudavendigar University;Murat Hudavendigar University;Turkey;TR;;Istanbul
 Murdoch University;Murdoch University;Australia;AU;Western Australia;Perth
-Muroran Institute of Technology;Muroran Institute of Technology;Japan;JP;Hokkaidō;Hokkaidō
+Muroran Institute of Technology;Muroran Institute of Technology;Japan;JP;Hokkaid?;Hokkaid?
 Murray State College;Murray State College;USA;US;Oklahoma;Tishomingo
 Murray State University;Murray State University;USA;US;Kentucky;Murray
 Mus Alparslan University;Mus Alparslan University;Turkey;TR;;Mus
@@ -12944,7 +12946,7 @@ Naval Postgraduate School;Naval Postgraduate School;USA;US;California;Monterey
 Naval School of Health Sciences;Naval School of Health Sciences;USA;US;Virginia;Portsmouth
 Navarro College;Navarro College;USA;US;Texas;Corsicana
 NAWCC School of Horology;NAWCC School of Horology;USA;US;Pennsylvania;Columbia
-Nayoro City University;Nayoro City University;Japan;JP;Hokkaidō;Hokkaidō
+Nayoro City University;Nayoro City University;Japan;JP;Hokkaid?;Hokkaid?
 Nazarene Bible College;Nazarene Bible College;USA;US;Colorado;Colorado Springs
 Nazarene Theological Seminary;Nazarene Theological Seminary;USA;US;Missouri;Kansas City
 Nazareth College of Rochester;Nazareth College of Rochester;USA;US;New York;Rochester
@@ -13089,7 +13091,7 @@ Nihon Institute of Medical Science;Nihon Institute of Medical Science;Japan;JP;K
 Nihon Pharmaceutical University;Nihon Pharmaceutical University;Japan;JP;Kanto;Saitama
 Nihon University;Nihon University;Japan;JP;Kanto;Tokyo
 Universidade Nihon;Nihon University;Japan;JP;Kanto;Tokyo
-Nihon University College of Engineering;Nihon University College of Engineering;Japan;JP;Tōhoku;Fukushima
+Nihon University College of Engineering;Nihon University College of Engineering;Japan;JP;T?hoku;Fukushima
 Nihonbashi Gakkan University;Nihonbashi Gakkan University;Japan;JP;Kanto;Chiba
 Niigata Chuoh Junior College;Niigata Chuoh Junior College;Japan;JP;Chubu;Niigata
 Niigata College of Nursing;Niigata College of Nursing;Japan;JP;Chubu;Niigata
@@ -13112,7 +13114,7 @@ NIMA National Institute of Medical Aesthetics;NIMA National Institute of Medical
 Nine Star University of Health Sciences;Nine Star University of Health Sciences;USA;US;California;Sunnyvale
 Ningxia University;Ningxia University;China;CN;Ningxia Autonomous Region;Yinchuan
 Nipissing University;Nipissing University;Canada;CA;Ontario;North Bay
-Nippon Bunri University;Nippon Bunri University;Japan;JP;Kyushu;Ōita
+Nippon Bunri University;Nippon Bunri University;Japan;JP;Kyushu;?ita
 Nippon Dental University;Nippon Dental University;Japan;JP;Kanto;Tokyo
 Nippon Institute of Technology;Nippon Institute of Technology;Japan;JP;Kanto;Saitama
 Nippon Medical School;Nippon Medical School;Japan;JP;Kanto;Tokyo
@@ -13350,8 +13352,8 @@ Oakton Community College;Oakton Community College;USA;US;Illnois;Des Plaines
 Oakwood University;Oakwood University;USA;US;Alabama;Huntsville
 Obafemi Awolowo University;Obafemi Awolowo University;Nigeria;NG;Osun;Ile Ife
 Oberlin College;Oberlin College;USA;US;Ohio;Oberlin
-Obihiro Otani Junior College;Obihiro Otani Junior College;Japan;JP;Hokkaidō;Hokkaidō
-Obihiro University of Agriculture and Veterinary Medicine;Obihiro University of Agriculture and Veterinary Medicine;Japan;JP;Hokkaidō;Hokkaidō
+Obihiro Otani Junior College;Obihiro Otani Junior College;Japan;JP;Hokkaid?;Hokkaid?
+Obihiro University of Agriculture and Veterinary Medicine;Obihiro University of Agriculture and Veterinary Medicine;Japan;JP;Hokkaid?;Hokkaid?
 Oblate School of Theology;Oblate School of Theology;USA;US;Texas;San Antonio
 Obong University;Obong University;Nigeria;NG;Akwa Ibom;Obong Ntak
 Observatorio Astronómico Cerro Las Campanas;Observatorio Astronómico Cerro Las Campanas;Chile;CL;Coquimbo;Elqui
@@ -13397,13 +13399,13 @@ Ohkagakuen College;Ohkagakuen College;Japan;JP;Chubu;Aichi
 Ohlone College;Ohlone College;USA;US;California;Fremont
 Ohr Hameir Theological Seminary;Ohr Hameir Theological Seminary;USA;US;New York;Cortland Manor
 Ohr Somayach;Ohr Somayach;USA;US;New York;Monsey
-Ohu University;Ohu University;Japan;JP;Tōhoku;Fukushima
+Ohu University;Ohu University;Japan;JP;T?hoku;Fukushima
 Oikos University;Oikos University;USA;US;California;Oakland
 OISE Boston;OISE Boston;USA;US;Massachusetts;Boston
-Oita Junior College;Oita Junior College;Japan;JP;Kyushu;Ōita
-Oita Prefectural College of Arts and Culture;Oita Prefectural College of Arts and Culture;Japan;JP;Kyushu;Ōita
-Oita University;Oita University;Japan;JP;Kyushu;Ōita
-Oita University of Nursing and Health Sciences;Oita University of Nursing and Health Sciences;Japan;JP;Kyushu;Ōita
+Oita Junior College;Oita Junior College;Japan;JP;Kyushu;?ita
+Oita Prefectural College of Arts and Culture;Oita Prefectural College of Arts and Culture;Japan;JP;Kyushu;?ita
+Oita University;Oita University;Japan;JP;Kyushu;?ita
+Oita University of Nursing and Health Sciences;Oita University of Nursing and Health Sciences;Japan;JP;Kyushu;?ita
 Okan University;Okan University;Turkey;TR;;Istanbul
 Okayama College;Okayama College;Japan;JP;Chugoku;Okayama
 Okayama Prefectural University;Okayama Prefectural University;Japan;JP;Chugoku;Okayama
@@ -13542,9 +13544,9 @@ Osun State University;Osun State University;Nigeria;NG;Osun;Osogbo
 Oswego County BOCES;Oswego County BOCES;USA;US;New York;Mexico
 Otani University & Junior College;Otani University & Junior College;Japan;JP;Kansai;Kyoto
 Otani Women's University;Otani Women's University;Japan;JP;Kansai;Osaka
-Otaru University of Commerce;Otaru University of Commerce;Japan;JP;Hokkaidō;Hokkaidō
-Otemae Junior College;Otemae Junior College;Japan;JP;Kansai;Hyōgo
-Otemae University;Otemae University;Japan;JP;Kansai;Hyōgo
+Otaru University of Commerce;Otaru University of Commerce;Japan;JP;Hokkaid?;Hokkaid?
+Otemae Junior College;Otemae Junior College;Japan;JP;Kansai;Hy?go
+Otemae University;Otemae University;Japan;JP;Kansai;Hy?go
 Otero Junior College;Otero Junior College;USA;US;Colorado;La Junta
 Otis College of Art and Design;Otis College of Art and Design;USA;US;California;Los Angeles
 Otorrinolaringologia Sul-Fluminense;Otorrinolaringologia Sul-Fluminense;Brazil;BR;;
@@ -13907,8 +13909,9 @@ Ponce School of Medicine;Ponce School of Medicine;Puerto Rico;PR;Ponce;Ponce
 Pondicherry University;Pondicherry University;India;IN;Pondicherry;Pondicherry
 Pontifical College Josephinum;Pontifical College Josephinum;USA;US;Ohio;Columbus
 Pontifical John Paul II Institute for Studies on Marriage and Family;Pontifical John Paul II Institute for Studies on Marriage and Family;USA;US;District of Columbia;Washington
-Pontifice Universidade Catolica de Campinas;Pontífice Universidade Católica de Campinas;Brazil;BR;;
-Pontífice Universidade Católica de Campinas;Pontífice Universidade Católica de Campinas;Brazil;BR;;
+Pontifice Universidade Catolica de Campinas;Pontifícia Universidade Católica de Campinas;Brazil;BR;;
+Pontifícia Universidade Católica de Campinas;Pontifícia Universidade Católica de Campinas;Brazil;BR;;
+Pontífice Universidade Católica de Campinas;Pontifícia Universidade Católica de Campinas;Brazil;BR;;
 Pontificia Facolta' Teologica di Sicilia;Pontificia Facolta' Teologica di Sicilia;Italy;IT;;
 Pontificia Facoltà Teologica di Sicilia San Giovanni Evangelista;Pontificia Facolta' Teologica di Sicilia;Italy;IT;;
 Pontificia Faculdade de Teologia Nossa Senhora da Assuncao;Pontifícia Faculdade de Teologia Nossa Senhora da Assunção;Brazil;BR;;
@@ -19889,7 +19892,7 @@ Rajiv Gandhi University Of Health Sciences;Rajiv Gandhi University Of Health Sci
 Rajmata Vijayraje Scindia Medical University;Rajmata Vijayraje Scindia Medical University;India;IN;Madhya Pradesh;Gwalior
 Rajshahi University of Engineering and Technology;Rajshahi University of Engineering and Technology;Bangladesh;BD;Rajshahi Division;Rajshahi
 Rak Medical & Health Sciences University;Rak Medical & Health Sciences University;United Arab Emirates;AE;Emirate of Ras al-Khaimah;Ras al-Khaimah
-Rakuno Gakuen University;Rakuno Gakuen University;Japan;JP;Hokkaidō;Hokkaidō
+Rakuno Gakuen University;Rakuno Gakuen University;Japan;JP;Hokkaid?;Hokkaid?
 Ramakrishna Mission Vivekananda University;Ramakrishna Mission Vivekananda University;India;IN;West Bengal;Belur
 Ramapo College of New Jersey;Ramapo College of New Jersey;USA;US;New Jersey;Mahwah
 Ramkhamhaeng University;Ramkhamhaeng University;Thailand;TH;Central Thailand;Bangkok
@@ -19998,7 +20001,7 @@ Rio Hondo College;Rio Hondo College;USA;US;California;Whittier
 Riphah International University;Riphah International University;Pakistan;PK;Islamabad Capital Territory;Islamabad
 Ripon College;Ripon College;USA;US;Wisconsin;Ripon
 Rissho University;Rissho University;Japan;JP;Kanto;Tokyo
-Ritsumeikan Asia Pacific University;Ritsumeikan Asia Pacific University;Japan;JP;Kyushu;Ōita
+Ritsumeikan Asia Pacific University;Ritsumeikan Asia Pacific University;Japan;JP;Kyushu;?ita
 Ritsumeikan University;Ritsumeikan University;Japan;JP;Kansai;Kyoto
 River Oak Center for Children;River Oak Center for Children;USA;US;California;Carmichael
 River Parishes Community College;River Parishes Community College;USA;US;Louisiana;Gonzales
@@ -20203,7 +20206,7 @@ Saitama Women's Junior College;Saitama Women's Junior College;Japan;JP;Kanto;Sai
 Sakai Women's Junior College;Sakai Women's Junior College;Japan;JP;Kansai;Osaka
 Sakarya University;Sakarya University;Turkey;TR;;Sakarya
 Saku University;Saku University;Japan;JP;Chubu;Nagano
-Sakura no Seibo Junior College;Sakura no Seibo Junior College;Japan;JP;Tōhoku;Fukushima
+Sakura no Seibo Junior College;Sakura no Seibo Junior College;Japan;JP;T?hoku;Fukushima
 Sakushin Gakuin University;Sakushin Gakuin University;Japan;JP;Kanto;Tochigi
 Salam University;Salam University;Afghanistan;AF;Kabul;Kabul
 Salem City Schools;Salem City Schools;USA;US;Ohio;Salem
@@ -20383,13 +20386,13 @@ São Leopoldo Mandic;São Leopoldo Mandic;Brazil;BR;Minas Gerais;Belo Horizonte
 Sapienza - Universita di Roma;Sapienza - Università di Roma;Italy;IT;;
 Universidad «La Sapienza»;Sapienza - Università di Roma;Italy;IT;;
 Sapienza - Università di Roma;Sapienza - Università di Roma;Italy;IT;;
-Sapporo City University;Sapporo City University;Japan;JP;Hokkaidō;Hokkaidō
-Sapporo Gakuin University;Sapporo Gakuin University;Japan;JP;Hokkaidō;Hokkaidō
-Sapporo International Junior College;Sapporo International Junior College;Japan;JP;Hokkaidō;Hokkaidō
-Sapporo International University;Sapporo International University;Japan;JP;Hokkaidō;Hokkaidō
-Sapporo Otani Junior College;Sapporo Otani Junior College;Japan;JP;Hokkaidō;Hokkaidō
-Sapporo Otani University;Sapporo Otani University;Japan;JP;Hokkaidō;Hokkaidō
-Sapporo University;Sapporo University;Japan;JP;Hokkaidō;Hokkaidō
+Sapporo City University;Sapporo City University;Japan;JP;Hokkaid?;Hokkaid?
+Sapporo Gakuin University;Sapporo Gakuin University;Japan;JP;Hokkaid?;Hokkaid?
+Sapporo International Junior College;Sapporo International Junior College;Japan;JP;Hokkaid?;Hokkaid?
+Sapporo International University;Sapporo International University;Japan;JP;Hokkaid?;Hokkaid?
+Sapporo Otani Junior College;Sapporo Otani Junior College;Japan;JP;Hokkaid?;Hokkaid?
+Sapporo Otani University;Sapporo Otani University;Japan;JP;Hokkaid?;Hokkaid?
+Sapporo University;Sapporo University;Japan;JP;Hokkaid?;Hokkaid?
 Saradha University;Saradha University;India;IN;Pondicherry;Kariakal
 Sarah Lawrence College;Sarah Lawrence College;USA;US;New York;Bronxville
 Sarasota County Technical Institute;Sarasota County Technical Institute;USA;US;Florida;Sarasota
@@ -31198,13 +31201,13 @@ Seinan Gakuin University;Seinan Gakuin University;Japan;JP;Kyushu;Fukuoka
 Seinan Jo Gakuin University;Seinan Jo Gakuin University;Japan;JP;Kyushu;Fukuoka
 Seirei Christopher College of Nursing;Seirei Christopher College of Nursing;Japan;JP;Chubu;Shizuoka
 Seiryo Women's Junior College;Seiryo Women's Junior College;Japan;JP;Chubu;Ishikawa
-Seisa University;Seisa University;Japan;JP;Hokkaidō;Hokkaidō
+Seisa University;Seisa University;Japan;JP;Hokkaid?;Hokkaid?
 Seisen Jogakuin College;Seisen Jogakuin College;Japan;JP;Chubu;Nagano
 Seisen University;Seisen University;Japan;JP;Kansai;Shiga
 Seishi Ursula Gakuen Junior College;Seishi Ursula Gakuen Junior College;Japan;JP;Kyushu;Miyazaki
 Seitoku University;Seitoku University;Japan;JP;Kanto;Chiba
-Seiwa College;Seiwa College;Japan;JP;Kansai;Hyōgo
-Seiwa Gakuen College;Seiwa Gakuen College;Japan;JP;Tōhoku;Miyagi
+Seiwa College;Seiwa College;Japan;JP;Kansai;Hy?go
+Seiwa Gakuen College;Seiwa Gakuen College;Japan;JP;T?hoku;Miyagi
 Seiwa University;Seiwa University;Japan;JP;Kanto;Chiba
 Selahaddin Eyyubi University;Selahaddin Eyyubi University;Turkey;TR;;Diyarbakir
 Selangor International Islamic University College;Selangor International Islamic University College;Malaysia;MY;Selangor;Bangi
@@ -31224,8 +31227,8 @@ Seminole State College of Florida;Seminole State College of Florida;USA;US;Flori
 Semmelweis University of Medical Sciences;Semmelweis University of Medical Sciences;Hungary;HU;Central Hungary;Budapest
 Semnan University of Medical Sciences;Semnan University of Medical Sciences;Iran;IR;Semnan;
 Senate Of Serampore College;Senate Of Serampore College;India;IN;West Bengal;Serampore
-Sendai College;Sendai College;Japan;JP;Tōhoku;Miyagi
-Sendai Shirayuri Women's College;Sendai Shirayuri Women's College;Japan;JP;Tōhoku;Miyagi
+Sendai College;Sendai College;Japan;JP;T?hoku;Miyagi
+Sendai Shirayuri Women's College;Sendai Shirayuri Women's College;Japan;JP;T?hoku;Miyagi
 Senri Kinran University;Senri Kinran University;Japan;JP;Kansai;Osaka
 Senshu University;Senshu University;Japan;JP;Kanto;Kanagawa
 Sentara College of Health Sciences;Sentara College of Health Sciences;USA;US;Virginia;Chesapeake
@@ -31365,13 +31368,13 @@ Shizuoka University of Art and Culture;Shizuoka University of Art and Culture;Ja
 Shizuoka University of Welfare;Shizuoka University of Welfare;Japan;JP;Chubu;Shizuoka
 Shobhit University;Shobhit University;India;IN;Uttar Pradesh;Meerut
 Shobi University;Shobi University;Japan;JP;Kanto;Saitama
-Shoei Junior College;Shoei Junior College;Japan;JP;Kansai;Hyōgo
+Shoei Junior College;Shoei Junior College;Japan;JP;Kansai;Hy?go
 Shogen Junior College;Shogen Junior College;Japan;JP;Chubu;Gifu
 Shohoku College;Shohoku College;Japan;JP;Kanto;Kanagawa
 Shoin Higashi Junior Women's College;Shoin Higashi Junior Women's College;Japan;JP;Kansai;Osaka
 Shoin University;Shoin University;Japan;JP;Kanto;Kanagawa
 Shokei College;Shokei College;Japan;JP;Kyushu;Kumamoto
-Shokei Gakuin University;Shokei Gakuin University;Japan;JP;Tōhoku;Miyagi
+Shokei Gakuin University;Shokei Gakuin University;Japan;JP;T?hoku;Miyagi
 Shomal University;Shomal University;Iran;IR;Mazandaran;Shomal
 Shonan Junior College;Shonan Junior College;Japan;JP;Kanto;Kanagawa
 Shore Academy;Shore Academy;USA;US;New Jersey;Point Pleasant
@@ -31391,9 +31394,9 @@ Shri Mata Vaishno Devi University;Shri Mata Vaishno Devi University;India;IN;Jam
 Shubun University;Shubun University;Japan;JP;Chubu;Aichi
 Shuchiin University;Shuchiin University;Japan;JP;Kansai;Kyoto
 Shujitsu University;Shujitsu University;Japan;JP;Chugoku;Okayama
-Shuko Junior College;Shuko Junior College;Japan;JP;Tōhoku;Iwate
-Shukugawa Gakuin College;Shukugawa Gakuin College;Japan;JP;Kansai;Hyōgo
-Shukugawa Gakuin Junior College;Shukugawa Gakuin Junior College;Japan;JP;Kansai;Hyōgo
+Shuko Junior College;Shuko Junior College;Japan;JP;T?hoku;Iwate
+Shukugawa Gakuin College;Shukugawa Gakuin College;Japan;JP;Kansai;Hy?go
+Shukugawa Gakuin Junior College;Shukugawa Gakuin Junior College;Japan;JP;Kansai;Hy?go
 Shukutoku Junior College;Shukutoku Junior College;Japan;JP;Kanto;Tokyo
 Shukutoku University;Shukutoku University;Japan;JP;Kanto;Chiba
 Shumei University;Shumei University;Japan;JP;Kanto;Chiba
@@ -31505,7 +31508,7 @@ Somerset Community College;Somerset Community College;USA;US;Kentucky;Somerset
 Somerset County Technology Center;Somerset County Technology Center;USA;US;Pennsylvania;Somerset
 Somerset County Technology Institute;Somerset County Technology Institute;USA;US;New Jersey;Bridgewater
 Somerset Medical Center;Somerset Medical Center;USA;US;New Jersey;Somerville
-Sonoda Gakuen Women's University;Sonoda Gakuen Women's University;Japan;JP;Kansai;Hyōgo
+Sonoda Gakuen Women's University;Sonoda Gakuen Women's University;Japan;JP;Kansai;Hy?go
 Sonoma College;Sonoma College;USA;US;California;Petaluma
 Sonoma State University;Sonoma State University;USA;US;California;Rohnert Park
 Sonoran Desert Institute;Sonoran Desert Institute;USA;US;Arizona;Scottsdale
@@ -31972,7 +31975,7 @@ Takachiho University;Takachiho University;Japan;JP;Kanto;Tokyo
 Takamatsu Junior College;Takamatsu Junior College;Japan;JP;Shikoku;Kagawa
 Takamatsu University;Takamatsu University;Japan;JP;Shikoku;Kagawa
 Takaoka University of Law;Takaoka University of Law;Japan;JP;Chubu;Toyama
-Takarazuka University;Takarazuka University;Japan;JP;Kansai;Hyōgo
+Takarazuka University;Takarazuka University;Japan;JP;Kansai;Hy?go
 Takasaki City University of Economics;Takasaki City University of Economics;Japan;JP;Kanto;Gunma
 Takasaki University of Commerce;Takasaki University of Commerce;Japan;JP;Kanto;Gunma
 Takasaki University of Commerce Junior College;Takasaki University of Commerce Junior College;Japan;JP;Kanto;Gunma
@@ -32138,7 +32141,7 @@ Tennessee Truck Driving School;Tennessee Truck Driving School;USA;US;Tennessee;L
 Tennessee Valley Health;Tennessee Valley Health;USA;US;Tennessee;Murfreesboro
 Tennessee Wesleyan College;Tennessee Wesleyan College;USA;US;Tennessee;Athens
 Tenri University;Tenri University;Japan;JP;Kansai;Nara
-Tenshi Women's Junior College;Tenshi Women's Junior College;Japan;JP;Hokkaidō;Hokkaidō
+Tenshi Women's Junior College;Tenshi Women's Junior College;Japan;JP;Hokkaid?;Hokkaid?
 Tercer Milenio;Tercer Milenio;Mexico;MX;Jalisco;Zapopan
 TERI University;TERI University;India;IN;Delhi;Delhi
 Terra State Community College;Terra State Community College;USA;US;Ohio;Fremont
@@ -32400,15 +32403,15 @@ Toho College of Music;Toho College of Music;Japan;JP;Kanto;Saitama
 Toho Gakuen School of Music;Toho Gakuen School of Music;Japan;JP;Kanto;Tokyo
 Toho Junior College of Music;Toho Junior College of Music;Japan;JP;Kanto;Tokyo
 Toho University;Toho University;Japan;JP;Kanto;Tokyo
-Tohoku Bunka Gakuen University;Tohoku Bunka Gakuen University;Japan;JP;Tōhoku;Miyagi
-Tohoku Fukushi University;Tohoku Fukushi University;Japan;JP;Tōhoku;Miyagi
-Tohoku Gakuin University;Tohoku Gakuin University;Japan;JP;Tōhoku;Miyagi
-Tohoku Institute of Technology;Tohoku Institute of Technology;Japan;JP;Tōhoku;Miyagi
-Tohoku Pharmaceutical University;Tohoku Pharmaceutical University;Japan;JP;Tōhoku;Miyagi
-Tohoku Seikatsu Bunka College;Tohoku Seikatsu Bunka College;Japan;JP;Tōhoku;Miyagi
-Tohoku University;Tohoku University;Japan;JP;Tōhoku;Miyagi
-Tohoku University of Art & Design;Tohoku University of Art & Design;Japan;JP;Tōhoku;Yamagata
-Tohoku University of Community Service and Science;Tohoku University of Community Service and Science;Japan;JP;Tōhoku;Yamagata
+Tohoku Bunka Gakuen University;Tohoku Bunka Gakuen University;Japan;JP;T?hoku;Miyagi
+Tohoku Fukushi University;Tohoku Fukushi University;Japan;JP;T?hoku;Miyagi
+Tohoku Gakuin University;Tohoku Gakuin University;Japan;JP;T?hoku;Miyagi
+Tohoku Institute of Technology;Tohoku Institute of Technology;Japan;JP;T?hoku;Miyagi
+Tohoku Pharmaceutical University;Tohoku Pharmaceutical University;Japan;JP;T?hoku;Miyagi
+Tohoku Seikatsu Bunka College;Tohoku Seikatsu Bunka College;Japan;JP;T?hoku;Miyagi
+Tohoku University;Tohoku University;Japan;JP;T?hoku;Miyagi
+Tohoku University of Art & Design;Tohoku University of Art & Design;Japan;JP;T?hoku;Yamagata
+Tohoku University of Community Service and Science;Tohoku University of Community Service and Science;Japan;JP;T?hoku;Yamagata
 Tohoku Women's College;Tohoku Women's College;Japan;JP;Tohoku;Aomori
 Tohono O'Odham Community College;Tohono O'Odham Community College;USA;US;Arizona;Sells
 Tohto College of Health Sciences;Tohto College of Health Sciences;Japan;JP;Kanto;Saitama
@@ -32416,8 +32419,8 @@ Tohwa University;Tohwa University;Japan;JP;Kyushu;Fukuoka
 Toin University of Yokohama;Toin University of Yokohama;Japan;JP;Kanto;Kanagawa
 Toita Women's College;Toita Women's College;Japan;JP;Kanto;Tokyo
 Tokai Gakuin University;Tokai Gakuin University;Japan;JP;Chubu;Gifu
-Tōkai University;Tōkai University;Japan;JP;Kanto;Tokyo
-Tōkaigakuen Women's College;Tōkaigakuen Women's College;Japan;JP;Chubu;Aichi
+T?kai University;T?kai University;Japan;JP;Kanto;Tokyo
+T?kaigakuen Women's College;T?kaigakuen Women's College;Japan;JP;Chubu;Aichi
 Tokiwa University;Tokiwa University;Japan;JP;Kanto;Ibaraki
 Tokiwakai College;Tokiwakai College;Japan;JP;Kansai;Osaka
 Tokiwakai Gakuen University;Tokiwakai Gakuen University;Japan;JP;Kansai;Osaka
@@ -32468,7 +32471,7 @@ Tokyo Women's Junior College of Physical Education;Tokyo Women's Junior College 
 Tokyo Zokei University;Tokyo Zokei University;Japan;JP;Kanto;Tokyo
 Toledo Prudente Centro Universitário;Toledo Prudente Centro Universitário;Brazil;BR;São Paulo;Presidente Prudente
 Tom P Haney Technical Center;Tom P Haney Technical Center;USA;US;Florida;Panama City
-Tomakomai Komazawa University;Tomakomai Komazawa University;Japan;JP;Hokkaidō;Hokkaidō
+Tomakomai Komazawa University;Tomakomai Komazawa University;Japan;JP;Hokkaid?;Hokkaid?
 Tomorrow's Image Barber Academy of Virginia;Tomorrow's Image Barber Academy of Virginia;USA;US;Virginia;Newport News
 Tongji University;Tongji University;China;CN;Shanghai;Yangpu District
 TONI & GUY Hairdressing Academy;TONI & GUY Hairdressing Academy;USA;US;California;Modesto
@@ -32492,7 +32495,7 @@ Toyama College of Welfare Science;Toyama College of Welfare Science;Japan;JP;Chu
 Toyama Prefectural University;Toyama Prefectural University;Japan;JP;Chubu;Toyama
 Toyama University of International Studies;Toyama University of International Studies;Japan;JP;Chubu;Toyama
 Toyama Women's College;Toyama Women's College;Japan;JP;Chubu;Toyama
-Toyo College of Food Technology;Toyo College of Food Technology;Japan;JP;Kansai;Hyōgo
+Toyo College of Food Technology;Toyo College of Food Technology;Japan;JP;Kansai;Hy?go
 Toyo Eiwa University;Toyo Eiwa University;Japan;JP;Kanto;Kanagawa
 Toyo Gakuen University;Toyo Gakuen University;Japan;JP;Kanto;Chiba
 Toyo University;Toyo University;Japan;JP;Kanto;Tokyo
@@ -32513,7 +32516,7 @@ Trend Barber College;Trend Barber College;USA;US;Texas;Houston
 Trent University;Trent University;Canada;CA;Ontario;Peterborough
 Trenton Psychiatric Hospital;Trenton Psychiatric Hospital;USA;US;New Jersey;West Trenton
 Trevecca Nazarene University;Trevecca Nazarene University;USA;US;Tennessee;Nashville
-Trevisan Escola de Negocios;Trevisan Escola de Negocios;Brazil;BR;Rio de Janeiro;Rio de Janeiro
+Trevisan Escola de Negocios;Trevisan Escola de Negócios;Brazil;BR;Rio de Janeiro;Rio de Janeiro
 Trevisan Escola de Negócios;Trevisan Escola de Negócios;Brazil;BR;São Paulo;São Paulo
 Tri County Technology Center;Tri County Technology Center;USA;US;Oklahoma;Bartlesville
 Triad Eye Medical Clinic and Cataract Institute Residency in Ocular Disease;Triad Eye Medical Clinic and Cataract Institute Residency in Ocular Disease;USA;US;Oklahoma;Tulsa
@@ -32621,8 +32624,6 @@ Umeå University;Umeå universitet;Sweden;SE;Västerbotten;Umeå
 Umeå universitet;Umeå universitet;Sweden;SE;Västerbotten;Umeå
 Umpqua Community College;Umpqua Community College;USA;US;Oregon;Roseburg
 Unarte;Unarte;Mexico;MX;Puebla;Puebla
-Universidade para o Desenvolvimento de Santa Catarina;undefined;Brazil;BR;;
-undefined;undefined;Brazil;BR;;
 União das Escolas do Grupo FAIMI de Educação;União das Escolas do Grupo FAIMI de Educação;Brazil;BR;São Paulo;Mirassol
 União das Instituições Educacionais do Estado de São Paulo;União das Instituições Educacionais do Estado de São Paulo;Brazil;BR;Tocantins;Colinas
 União de Ensino Superior de Viçosa;União de Ensino Superior de Viçosa;Brazil;BR;;
@@ -36460,16 +36461,6 @@ IPUSP/SP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 IQSC-USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 IRI - USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 IUSP/CENA;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Jornalista, doutora em Comunicação e Semiótica pela Pontifícia Universidade Católica de São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-la Universidad de São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Laboratorio de Investigacao Medica HC-FMUSP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-"""Livre&#8209;docência em política, docente e pesquisador do departamento de política e do programa de estudos pós&#8209;graduados em Ciências Sociais da Pontifícia Universidade Católica de São Paulo/SP, Brasil""";Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-"""Livre-docentes, Docentes do Centro de Ci&#234;ncias das Imagens e F&#237;sica M&#233;dica do Departamento de Cl&#237;nica M&#233;dica do Hospital das Cl&#237;nicas da Faculdade de Medicina de Ribeir&#227;o Preto da Universidade de S&#227;o Paulo (HC-FMRPUSP), Ribeir&#227;o Preto""";Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-"""M&#233;dica Radiologista, Fellow de Radiologia Musculoesquel&#233;tica do Hospital das Cl&#237;nicas da Faculdade de Medicina de Ribeir&#227;o Preto da Universidade de S&#227;o Paulo (HC-FMRPUSP), Ribeir&#227;o Preto""";Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-"""M&#233;dico Assistente do Servi&#231;o de Patologia do Hospital das Cl&#237;nicas da Faculdade de Medicina de Ribeir&#227;o Preto da Universidade de S&#227;o Paulo (HC-FMRPUSP), Ribeir&#227;o Preto""";Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-"""M&#233;dico Radiologista especializado em Radiologia Musculoesquel&#233;tica, Assistente da Divis&#227;o de Radiologia do Centro de Ci&#234;ncias das Imagens e F&#237;sica M&#233;dica da Faculdade de Medicina de Ribeir&#227;o Preto da Universidade de S&#227;o Paulo (FMRPUSP), Ribeir&#227;o Preto""";Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-"""M&#233;dicos Residentes de Radiologia e Diagn&#243;stico por Imagem do Hospital das Cl&#237;nicas da Faculdade de Medicina de Ribeir&#227;o Preto da Universidade de S&#227;o Paulo (HC-FMRPUSP), Ribeir&#227;o Preto""";Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Mackenzie University of São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Medical School of University of São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Medical University of São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Medicina Veterinária e Zootecnia da USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
@@ -36579,20 +36570,11 @@ Universidada de São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São 
 Universidade  de São Paulo,Instituto  de Estudos Avançados;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de ão Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de S & o Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-"""Universidade de S&#227;o Paulo""";Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de S. Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de S. Paulo - USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de S. Paulo, campus de Ribeirão Preto;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de S. Paulo-S. Carlos;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de S.Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de S\~{a}o Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de S\~ao Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de S˜ao Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de SÃ¯Â¿Â½o Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de Sãa Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-"""Universidade de São Paul; São Paulo""";Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Paul0o;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de Sao Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de São Paulo-;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
@@ -36687,22 +36669,6 @@ Universidade de São Paulo/Ribeirão Preto FEARP-USP;Universidade de São Paulo;
 Universidade de São Paulo/USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de São Paulo-FEA/USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade de São Paulo-Ribeirão Preto;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Paulo-RP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Paulo-SP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Paulo-USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Paulovvv;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Pauo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Pualo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Pulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de São Saulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de SãoPaulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de SãoUniversidade de SãoUniversidade de São;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de Sfto Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de Silo Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de So Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade de SSo Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade dee São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-Universidade deSão Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade do Sao Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade do São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 Universidade e São Paulo;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
@@ -36735,10 +36701,6 @@ University of São Paulo (HC-FMUSP);Universidade de São Paulo;Brazil;BR;São Pa
 University of São Paulo (HRAC-USP);Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 University of São Paulo (ICESP - FMUSP);Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 University of São Paulo (USP);Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-University of São Paulo â€“ USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-University of São Paulo â€“ USP.;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-University of São Paulo ââ‚¬â€œ USP;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
-University of São Paulo ââ‚¬â€œ USP.;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 University of São Paulo and University Hospital;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 University of São Paulo at Ribeirão Preto College of Nursing;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
 University of São Paulo at Ribeirão Preto School of Economics;Universidade de São Paulo;Brazil;BR;São Paulo;São Paulo
@@ -37992,25 +37954,6 @@ Universidade Estadual e São Paulo;Universidade Estadual Paulista;Brazil;BR;São
 Universidade Estadual Júlio de Mesquita Filho (UNESP);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Júlio Mesquita Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Assis;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Bauru;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Botucatu;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Botucatu - SP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Campus de Assis;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Campus de Ilha Solteira;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Câmpus de Jaboticabal;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Campus de Rio Claro;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - FCA/UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - FCA-UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - FCAV/UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - FCT/Unesp;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - FFC/UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Júlio de Mesquita Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Rio Claro;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - Rio Claro (SP);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - São José do Rio Preto - SP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - São José do Rio Preto, SP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista - São José do Rio Preto-SP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista - UNES;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista  UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista - UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
@@ -38021,17 +37964,6 @@ Universidade Estadual Paulista - UNESP, Assis;Universidade Estadual Paulista;Bra
 Universidade Estadual Paulista  Júlio de Mesquita Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 """Universidade Estadual Paulista """"Julio de Mesquita Filho""""""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 """Universidade Estadual Paulista """"Júlio de Mesquita Filho""""""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista """"Julio de Mesquita Filho""""- UNESP""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista """"Júlio de Mesquita Filho"""", UNESP""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista &#34; Júlio de Mesquita Filho &#34;""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista &#34;Júlio de Mesquita Filho&#34;""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista &#8216;Julio de Mesquita Filho&#8217;""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista &#8216;Júlio de Mesquita Filho&#8217;""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista &#8220;Júlio de Mesquita Filho&#8221;""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista &#8220;Júlio de Mesquita Filho&#8221; (UNESP)""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista &#8220;Julio de Mesquita Filho&#8221;, (UNESP)""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-"""Universidade Estadual Paulista &quot;Júlio de Mesquita Filho&quot;""";Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista (;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista (FEIS-UNESP);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista (FMB-Unesp);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista (UNESP);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
@@ -38040,9 +37972,6 @@ Universidade Estadual Paulista (UNESP-Bauru);Universidade Estadual Paulista;Braz
 Universidade Estadual Paulista (UNESP-Jaboticabal);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista ‘ Júlio de Mesquita Filho’;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 UNIVERSIDADE ESTADUAL PAULISTA ‘JÚLIO DE MESQUISTA FILHO;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista â€œJÃºlio de Mesquita Filhoâ€?;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista â€œJÃºlio de Mesquita Filhoâ€? â€“ UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista ââ‚¬Å“JÃƒÂºlio de Mesquita Filhoââ‚¬ï¿½ ââ‚¬â€œ UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Araraquara;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Assis;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Campus Araraquara;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
@@ -38062,7 +37991,6 @@ Universidade Estadual Paulista J. M. Filho;Universidade Estadual Paulista;Brazil
 Universidade Estadual Paulista J. M. Mesquita;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista J.M. Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista J.M.Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista JÃºlio de Mesquita Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista José de Mesquita Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Júio de Mesquita Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Julho de Mesquita Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
@@ -38093,11 +38021,6 @@ Universidade Estadual Paulista Julio de Mesquita Filho (UNESP);Universidade Esta
 Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista ''Júlio de Mesquita Filho'' (UNESP);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP/FCA);Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista Júlio de Mesquita Filho ¬ UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista Júlio de Mesquita Filho Â¬ UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista Júlio de Mesquita Filho Campus Rio Claro;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista Júlio de Mesquita Filho orgdiv1=Faculdade de Ciências Agronômicas de Botucatu;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista Júlio de Mesquita Filho ''orgdiv1=FCA;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Julio de Mesquita Filho, Campus de Rio Claro;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Júlio de Mesquita Filho, UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista Júlio de Mesquita Filho, UNESP, São Paulo;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
@@ -38142,11 +38065,6 @@ Universidade Estadual Paulista-Araraquara;Universidade Estadual Paulista;Brazil;
 Universidade Estadual PaulistaBaiano;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista-Bauru;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual Paulista-Campus de Marília;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual PaulistaDepartamento de Química Orgânica, Instituto de Química, Universidade Estadual Paulista;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual PaulistaJulio de Mesquita Filho;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulistal;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista-UNESP;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
-Universidade Estadual Paulista-UNESP e Prefeitura da Estância Turística e Religiosa de Aparecida (SP)-PETRA,Departamento de Zoología do Instituto de Biosciências de Botucatu;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual PaulistaUniversidade Estadual Paulista;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadual São Paulo;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
 Universidade Estadualde São Paulo;Universidade Estadual Paulista;Brazil;BR;São Paulo;Araraquara
@@ -38679,11 +38597,6 @@ Universidade Federal de Mato Grosso do Sul;Universidade Federal de Mato Grosso d
 Universidade Federal de Mato Grosso do Sul/CPAQ;Universidade Federal de Mato Grosso do Sul;Brazil;BR;Mato Grosso do Sul;Campo Grande
 Universidade Federal de Matogrosso do Sul;Universidade Federal de Mato Grosso do Sul;Brazil;BR;Mato Grosso do Sul;Campo Grande
 Universidade Federal do Mato Grasso do Sul;Universidade Federal de Mato Grosso do Sul;Brazil;BR;Mato Grosso do Sul;Campo Grande
-, Universidade Federal de Minas Gerais;Universidade Federal de Minas Gerais;Brazil;BR;Minas Gerais;Belo Horizonte
-, Universidade Federal de Minas Gerais (UFMG);Universidade Federal de Minas Gerais;Brazil;BR;Minas Gerais;Belo Horizonte
-Bióloga, Professora Doutora em Ecologia - Universidade Federal de Minas Gerais;Universidade Federal de Minas Gerais;Brazil;BR;Minas Gerais;Belo Horizonte
-CAPES-UFMG;Universidade Federal de Minas Gerais;Brazil;BR;Minas Gerais;Belo Horizonte
-cccUniversidade Federal de Minas Gerais;Universidade Federal de Minas Gerais;Brazil;BR;Minas Gerais;Belo Horizonte
 CEDEPLAR/UFMG;Universidade Federal de Minas Gerais;Brazil;BR;Minas Gerais;Belo Horizonte
 Centro de Desenvolvimento da Tecnologia Nuclear;Universidade Federal de Minas Gerais;Brazil;BR;Minas Gerais;Belo Horizonte
 Cirurgia Veterinárias-UFMG;Universidade Federal de Minas Gerais;Brazil;BR;Minas Gerais;Belo Horizonte
@@ -38792,11 +38705,6 @@ Universidade Federal de Ouro Preto. Departamento de Quimica;Universidade Federal
 Universidade Federal do Ouro Preto;Universidade Federal de Ouro Preto;Brazil;BR;Minas Gerais;Ouro Preto
 Universidade Federal Ouro Preto;Universidade Federal de Ouro Preto;Brazil;BR;Minas Gerais;Ouro Preto
 (UFPel);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
-, Universidade Federal de Pelotas (UFPel);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
-/UFPel;Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
-Assistant Professor â€“ Federal University of Pelotas(UFPel);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
-Assistant Professor ââ‚¬â€œ Federal University of Pelotas(UFPel);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
-DCTA/FAEM/UFPel;Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
 Faculdade de Agronomia Eliseu Maciel (FAEM/UFPel);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
 Faculdade de Medicina da Universidade Federal de Pelotas;Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
 Faculdade de Veterinária, Universidade Federal de Pelotas;Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
@@ -38827,8 +38735,6 @@ Universidade Federal de Pelotas (FAEM/UFPEL);Universidade Federal de Pelotas;Bra
 Universidade Federal de Pelotas (FMUFPel);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
 Universidade Federal de Pelotas (UFPel);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
 Universidade Federal de Pelotas (UFPEL/FAEM);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
-Universidade Federal de Pelotas â€“ UFPel;Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
-Universidade Federal de Pelotas ââ‚¬â€œ UFPel;Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
 Universidade Federal de Pelotas(UFPel);Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
 Universidade Federal de Pelotas/UFPel;Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
 Universidade Federal de Pelotas-UFPel;Universidade Federal de Pelotas;Brazil;BR;Rio Grande do Sul;Pelotas
@@ -41555,7 +41461,7 @@ University of Ado Ekiti;University of Ado Ekiti;Nigeria;NG;Ekiti;Ado-Ekiti
 University of Advancing Technology;University of Advancing Technology;USA;US;Arizona;Tempe
 University of Aesthetics;University of Aesthetics;USA;US;Illnois;Chicago
 University of Agriculture;University of Agriculture;Pakistan;PK;Punjab;Faisalabad
-University of Aizu;University of Aizu;Japan;JP;Tōhoku;Fukushima
+University of Aizu;University of Aizu;Japan;JP;T?hoku;Fukushima
 University of Akron;University of Akron;USA;US;Ohio;Akron
 University of Alabama;University of Alabama;USA;US;Alabama;Birmingham
 University of Alaska;University of Alaska;USA;US;Alaska;Anchorage
@@ -41710,7 +41616,7 @@ University of Huddersfiel;University of Huddersfiel;United Kingdom;GB;;
 University of Human Arts and Sciences;University of Human Arts and Sciences;Japan;JP;Kanto;Saitama
 University of Human Sciences and Technology of Lugano;University of Human Sciences and Technology of Lugano;Switzerland;CH;Lugano;Lugano
 University Of Hyderabad;University Of Hyderabad;India;IN;Andhra Pradesh;Hyderabad
-University of Hyogo;University of Hyogo;Japan;JP;Kansai;Hyōgo
+University of Hyogo;University of Hyogo;Japan;JP;Kansai;Hy?go
 University College Ibadan, Nigeria and Oxford University;University of Ibadan;Nigeria;NG;Oyo;Ibadan
 University of Ibadan;University of Ibadan;Nigeria;NG;Oyo;Ibadan
 University of Idaho;University of Idaho;USA;US;Idaho;Moscow
@@ -41767,7 +41673,7 @@ University of Malaysia;University of Malaysia;Malaysia;MY;Perlis;Arau
 University of Management and Technology;University of Management and Technology;USA;US;Virginia;Arlington
 University of Manitoba;University of Manitoba;Canada;CA;Manitoba;Winnipeg
 University of Maragheh;University of Maragheh;Iran;IR;East Azerbaijan;
-University of Marketing and Distribution Sciences;University of Marketing and Distribution Sciences;Japan;JP;Kansai;Hyōgo
+University of Marketing and Distribution Sciences;University of Marketing and Distribution Sciences;Japan;JP;Kansai;Hy?go
 University of Mary;University of Mary;USA;US;Texas;Belton
 University of Maryland;University of Maryland;USA;US;Maryland;Adelphi
 University of Massachusetts;University of Massachusetts;USA;US;Massachusetts;Amherst
@@ -41959,7 +41865,7 @@ University of the Potomac;University of the Potomac;USA;US;District of Columbia;
 University of the Punjab;University of the Punjab;Pakistan;PK;Punjab;Lahore
 University of the Rockies;University of the Rockies;USA;US;Colorado;Colorado Springs
 University of the Ryukyus;University of the Ryukyus;Japan;JP;Kyushu;Okinawa
-University of the Ryūkyūs;University of the Ryūkyūs;Japan;JP;Kyushu;Okinawa
+University of the Ry?ky?s;University of the Ry?ky?s;Japan;JP;Kyushu;Okinawa
 University of the Sacred Heart;University of the Sacred Heart;Japan;JP;Kanto;Tokyo
 University of the Sciences;University of the Sciences;USA;US;Pennsylvania;Philadelphia
 University of the Southwest;University of the Southwest;USA;US;New Mexico;Hobbs
@@ -42072,7 +41978,7 @@ Uttar Pradesh Rajarshi Tandon Open University;Uttar Pradesh Rajarshi Tandon Open
 Uttar Pradesh Technical University;Uttar Pradesh Technical University;India;IN;Uttar Pradesh;Lucknow
 Uttarakhand Technical University;Uttarakhand Technical University;India;IN;Uttarakhand;Dehradun
 UVMC Health System;UVMC Health System;USA;US;Ohio;Troy
-Uyo Gakuen College;Uyo Gakuen College;Japan;JP;Tōhoku;Yamagata
+Uyo Gakuen College;Uyo Gakuen College;Japan;JP;T?hoku;Yamagata
 VA Greater Los Angeles;VA Greater Los Angeles;USA;US;California;Los Angeles
 VA Medical Center Coatesville;VA Medical Center Coatesville;USA;US;Pennsylvania;Coatesville
 VA Santa Barbara;VA Santa Barbara;USA;US;California;Santa Barbara
@@ -42243,7 +42149,7 @@ Wakayama University;Wakayama University;Japan;JP;Kansai;Wakayama
 Wake Forest University;Wake Forest University;USA;US;North Carolina;Winston Salem
 Wake Technical Community College;Wake Technical Community College;USA;US;North Carolina;Raleigh
 WakeMed;WakeMed;USA;US;North Carolina;Raleigh
-Wakkanai Hokusei Gakuen College;Wakkanai Hokusei Gakuen College;Japan;JP;Hokkaidō;Hokkaidō
+Wakkanai Hokusei Gakuen College;Wakkanai Hokusei Gakuen College;Japan;JP;Hokkaid?;Hokkaid?
 Walailak University;Walailak University;Thailand;TH;Central Thailand;Bangkok
 Walden University;Walden University;USA;US;Minnesota;Minneapolis
 Waldo County Technical Center;Waldo County Technical Center;USA;US;Maine;Waldo
@@ -42614,9 +42520,9 @@ Yakima Valley Community College;Yakima Valley Community College;USA;US;Washingto
 Yakima Valley Farm Workers Clinic;Yakima Valley Farm Workers Clinic;USA;US;Washington;Toppenish
 Yale University;Yale University;USA;US;Connecticut;New Haven
 Yalova University;Yalova University;Turkey;TR;;Yalova
-Yamagata Junior College;Yamagata Junior College;Japan;JP;Tōhoku;Yamagata
-Yamagata Prefectural University of Health Sciences;Yamagata Prefectural University of Health Sciences;Japan;JP;Tōhoku;Yamagata
-Yamagata University;Yamagata University;Japan;JP;Tōhoku;Yamagata
+Yamagata Junior College;Yamagata Junior College;Japan;JP;T?hoku;Yamagata
+Yamagata Prefectural University of Health Sciences;Yamagata Prefectural University of Health Sciences;Japan;JP;T?hoku;Yamagata
+Yamagata University;Yamagata University;Japan;JP;T?hoku;Yamagata
 Yamaguchi College of Arts;Yamaguchi College of Arts;Japan;JP;Chugoku;Yamaguchi
 Yamaguchi Gakugei College;Yamaguchi Gakugei College;Japan;JP;Chugoku;Yamaguchi
 Yamaguchi Junior College;Yamaguchi Junior College;Japan;JP;Chugoku;Yamaguchi
@@ -42687,7 +42593,7 @@ Yokohama College of Commerce;Yokohama College of Commerce;Japan;JP;Kanto;Kanagaw
 Yokohama National University;Yokohama National University;Japan;JP;Kanto;Kanagawa
 Yokohama Soei Junior College;Yokohama Soei Junior College;Japan;JP;Kanto;Kanagawa
 Yokohama Women's Junior College;Yokohama Women's Junior College;Japan;JP;Kanto;Kanagawa
-Yonezawa Women's Junior College;Yonezawa Women's Junior College;Japan;JP;Tōhoku;Yamagata
+Yonezawa Women's Junior College;Yonezawa Women's Junior College;Japan;JP;T?hoku;Yamagata
 York College;York College;USA;US;Nebraska;York
 York College of Pennsylvania;York College of Pennsylvania;USA;US;Pennsylvania;York
 York County Community College;York County Community College;USA;US;Maine;Wells
@@ -42709,16 +42615,16 @@ Yuma Regional Medical Center;Yuma Regional Medical Center;USA;US;Arizona;Yuma
 Yunnan University;Yunnan University;China;CN;Yunnan;Kunming
 Yunnan University of Nationalities;Yunnan University;China;CN;Yunnan;Kunming
 Yunnan University, Kunming;Yunnan University;China;CN;Yunnan;Kunming
-Yunzuncu Yil University;Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-"""Yuzuncu Y&#305;l University""";Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-"""Yüzüncü Y&#305;l University""";Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-Yüzüncü Y1l University;Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-Yüzüncü Yıl Üniversitesi;Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-Yuzuncu Yil University;Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-Yüzüncü Yil University;Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-Yuzuncu Yil University School of Medicine;Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-Yuzuncu Yil University School of Medicine Van Turkiye;Yüzüncü Yıl Üniversitesi;Turkey;TR;;
-Yüzüncü Yil University;Yüzüncü Yıl Üniversitesi;Turkey;TR;;Van
+Yunzuncu Yil University;Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+"""Yuzuncu Y&#305;l University""";Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+"""Yüzüncü Y&#305;l University""";Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+Yüzüncü Y1l University;Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+Yüzüncü Y?l Üniversitesi;Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+Yuzuncu Yil University;Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+Yüzüncü Yil University;Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+Yuzuncu Yil University School of Medicine;Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+Yuzuncu Yil University School of Medicine Van Turkiye;Yüzüncü Y?l Üniversitesi;Turkey;TR;;
+Yüzüncü Yil University;Yüzüncü Y?l Üniversitesi;Turkey;TR;;Van
 Zabol University;Zabol University;Iran;IR;Sistan And Baluchistan;
 Zabol University of Medical Sciences;Zabol University of Medical Sciences;Iran;IR;Sistan And Baluchistan;Zabol
 Zagazig University;Zagazig University;Egypt;EG;Al Sharqia;Zagazig
