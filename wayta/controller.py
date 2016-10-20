@@ -152,11 +152,11 @@ class DataBroker(object):
 
         qbody = {
             'query': {
-                'fuzzy_like_this_field': {
+                'fuzzy': {
                     'form': {
-                        'like_text': q,
+                        'value': q,
                         'fuzziness': 2,
-                        'max_query_terms': 100
+                        'max_expansions': 100
                     }
                 }
             }
@@ -192,11 +192,11 @@ class DataBroker(object):
                 "bool":{
                     "should": [
                         {
-                            "fuzzy_like_this_field": {
-                                "form": {
-                                    "like_text": q,
-                                    "fuzziness": 2,
-                                    "max_query_terms": 100
+                            'fuzzy': {
+                                'form': {
+                                    'value': q,
+                                    'fuzziness': 2,
+                                    'max_expansions': 100
                                 }
                             }
                         }
@@ -210,11 +210,11 @@ class DataBroker(object):
             qbody['query']['bool']['minimum_should_match'] = 2
             qbody['query']['bool']['should'].append([
                 {
-                    "fuzzy_like_this_field": {
-                        "country": {
-                            "like_text": country,
-                            "fuzziness": 2,
-                            "max_query_terms": 100
+                    'fuzzy': {
+                        'country': {
+                            'value': country,
+                            'fuzziness': 2,
+                            'max_expansions': 100
                         }
                     }
                 }

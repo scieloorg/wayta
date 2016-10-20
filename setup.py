@@ -16,7 +16,7 @@ requires = [
 ]
 
 setup(name='wayta',
-      version='1.1b',
+      version='1.2.1',
       description='A tool to suggest the name of an institution or country in the original form and language.',
       long_description=README + '\n\n' + CHANGES,
       classifiers=[
