@@ -152,11 +152,10 @@ class DataBroker(object):
 
         qbody = {
             'query': {
-                'fuzzy': {
+                'match': {
                     'form': {
-                        'value': q,
-                        'fuzziness': 2,
-                        'max_expansions': 100
+                        'query': q,
+                        'fuzziness': 1 if len(q) > 3 else 0
                     }
                 }
             }
@@ -190,13 +189,12 @@ class DataBroker(object):
         qbody = {
             "query": {
                 "bool":{
-                    "should": [
+                    "must": [
                         {
-                            'fuzzy': {
+                            'match': {
                                 'form': {
-                                    'value': q,
-                                    'fuzziness': 2,
-                                    'max_expansions': 100
+                                    'query': q,
+                                    'fuzziness': 1 if len(q) > 5 else 0
                                 }
                             }
                         }
@@ -208,13 +206,12 @@ class DataBroker(object):
 
         if country:
             qbody['query']['bool']['minimum_should_match'] = 2
-            qbody['query']['bool']['should'].append([
+            qbody['query']['bool']['must'].append([
                 {
-                    'fuzzy': {
+                    'match': {
                         'country': {
-                            'value': country,
-                            'fuzziness': 2,
-                            'max_expansions': 100
+                            'query': country,
+                            'fuzziness': 1 if len(q) > 3 else 0
                         }
                     }
                 }

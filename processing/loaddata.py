@@ -11,6 +11,7 @@ settings = dict(config.items())
 ESHOST = settings['app:main'].get('elasticsearch_host', '127.0.0.1')
 ESPORT = settings['app:main'].get('elasticsearch_port', '9200')
 
+
 def institutions(tabfile='normalized_aff.csv'):
     es = Elasticsearch(ESHOST, port=ESPORT)
 
@@ -19,23 +20,28 @@ def institutions(tabfile='normalized_aff.csv'):
             "institution": {
                 "properties": {
                    "city": {
-                      "type": "string"
+                      "type": "string",
+                      "index": "analyzed"
                    },
                    "country": {
-                      "type": "string"
+                      "type": "string",
+                      "index": "analyzed"
                    },
                    "form": {
-                      "type": "string"
+                      "type": "string",
+                      "index": "analyzed"
                    },
                    "iso-3166": {
                       "type": "string",
                       "index": "not_analyzed"
                    },
                    "name": {
-                      "type": "string"
+                      "type": "string",
+                      "index": "analyzed"
                    },
                    "state": {
-                      "type": "string"
+                      "type": "string",
+                      "index": "analyzed"
                    }
                 }
             }
